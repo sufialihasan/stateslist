@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Jammu And Kashmir",
+        "slug": "jammu-and-kashmir",
+        "census_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Himachal Pradesh",
+        "slug": "himachal-pradesh",
+        "census_id": 2
+    },
+    {
+        "id": 3,
+        "name": "Punjab",
+        "slug": "punjab",
+        "census_id": 3
+    },
+    {
+        "id": 4,
+        "name": "Chandigarh",
+        "slug": "chandigarh",
+        "census_id": 4
+    },
+    {
+        "id": 5,
+        "name": "Uttarakhand",
+        "slug": "uttarakhand",
+        "census_id": 5
+    },
+    {
+        "id": 6,
+        "name": "Haryana",
+        "slug": "haryana",
+        "census_id": 6
+    },
+    {
+        "id": 7,
+        "name": "Delhi",
+        "slug": "delhi",
+        "census_id": 7
+    },
+    {
+        "id": 8,
+        "name": "Rajasthan",
+        "slug": "rajasthan",
+        "census_id": 8
+    },
+    {
+        "id": 9,
+        "name": "Uttar Pradesh",
+        "slug": "uttar-pradesh",
+        "census_id": 9
+    },
+    {
+        "id": 10,
+        "name": "Bihar",
+        "slug": "bihar",
+        "census_id": 10
+    },
+    {
+        "id": 11,
+        "name": "Sikkim",
+        "slug": "sikkim",
+        "census_id": 11
+    },
+    {
+        "id": 12,
+        "name": "Arunachal Pradesh",
+        "slug": "arunachal-pradesh",
+        "census_id": 12
+    },
+    {
+        "id": 13,
+        "name": "Nagaland",
+        "slug": "nagaland",
+        "census_id": 13
+    },
+    {
+        "id": 14,
+        "name": "Manipur",
+        "slug": "manipur",
+        "census_id": 14
+    },
+    {
+        "id": 15,
+        "name": "Mizoram",
+        "slug": "mizoram",
+        "census_id": 15
+    },
+    {
+        "id": 16,
+        "name": "Tripura",
+        "slug": "tripura",
+        "census_id": 16
+    },
+    {
+        "id": 17,
+        "name": "Meghalaya",
+        "slug": "meghalaya",
+        "census_id": 17
+    },
+    {
+        "id": 18,
+        "name": "Assam",
+        "slug": "assam",
+        "census_id": 18
+    },
+    {
+        "id": 19,
+        "name": "West Bengal",
+        "slug": "west-bengal",
+        "census_id": 19
+    },
+    {
+        "id": 20,
+        "name": "Jharkhand",
+        "slug": "jharkhand",
+        "census_id": 20
+    },
+    {
+        "id": 21,
+        "name": "Odisha",
+        "slug": "odisha",
+        "census_id": 21
+    },
+    {
+        "id": 22,
+        "name": "Chhattisgarh",
+        "slug": "chhattisgarh",
+        "census_id": 22
+    },
+    {
+        "id": 23,
+        "name": "Madhya Pradesh",
+        "slug": "madhya-pradesh",
+        "census_id": 23
+    },
+    {
+        "id": 24,
+        "name": "Gujarat",
+        "slug": "gujarat",
+        "census_id": 24
+    },
+    {
+        "id": 25,
+        "name": "Daman And Diu",
+        "slug": "daman-and-diu",
+        "census_id": 25
+    },
+    {
+        "id": 26,
+        "name": "Dadra And Nagar Haveli",
+        "slug": "dadra-and-nagar-haveli",
+        "census_id": 26
+    },
+    {
+        "id": 27,
+        "name": "Maharashtra",
+        "slug": "maharashtra",
+        "census_id": 27
+    },
+    {
+        "id": 28,
+        "name": "Andhra Pradesh",
+        "slug": "andhra-pradesh",
+        "census_id": 28
+    },
+    {
+        "id": 29,
+        "name": "Karnataka",
+        "slug": "karnataka",
+        "census_id": 29
+    },
+    {
+        "id": 30,
+        "name": "Goa",
+        "slug": "goa",
+        "census_id": 30
+    },
+    {
+        "id": 31,
+        "name": "Lakshadweep",
+        "slug": "lakshadweep",
+        "census_id": 31
+    },
+    {
+        "id": 32,
+        "name": "Kerala",
+        "slug": "kerala",
+        "census_id": 32
+    },
+    {
+        "id": 33,
+        "name": "Tamil Nadu",
+        "slug": "tamil-nadu",
+        "census_id": 33
+    },
+    {
+        "id": 34,
+        "name": "Puducherry",
+        "slug": "puducherry",
+        "census_id": 34
+    },
+    {
+        "id": 35,
+        "name": "Andaman and Nicobar Islands",
+        "slug": "andaman-and-nicobar-islands",
+        "census_id": 35
+    },
+    {
+        "id": 36,
+        "name": "Telangana",
+        "slug": "telangana",
+        "census_id": 0
+    }
+]

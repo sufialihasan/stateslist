@@ -1,0 +1,4713 @@
+[
+	{
+		"id"		:	1,
+		"name"		:	"Kupwara",
+		"slug"		:	"kupwara",
+		"state_id"	:	1,
+		"census_id"	:	1
+	},{
+		"id"		:	2,
+		"name"		:	"Badgam",
+		"slug"		:	"badgam",
+		"state_id"	:	1,
+		"census_id"	:	2
+	},{
+		"id"		:	3,
+		"name"		:	"Leh (Ladakh)",
+		"slug"		:	"leh-ladakh",
+		"state_id"	:	1,
+		"census_id"	:	3
+	},{
+		"id"		:	4,
+		"name"		:	"Kargil",
+		"slug"		:	"kargil",
+		"state_id"	:	1,
+		"census_id"	:	4
+	},{
+		"id"		:	5,
+		"name"		:	"Punch",
+		"slug"		:	"punch",
+		"state_id"	:	1,
+		"census_id"	:	5
+	},{
+		"id"		:	6,
+		"name"		:	"Rajouri",
+		"slug"		:	"rajouri",
+		"state_id"	:	1,
+		"census_id"	:	6
+	},{
+		"id"		:	7,
+		"name"		:	"Kathua",
+		"slug"		:	"kathua",
+		"state_id"	:	1,
+		"census_id"	:	7
+	},{
+		"id"		:	8,
+		"name"		:	"Baramula",
+		"slug"		:	"baramula",
+		"state_id"	:	1,
+		"census_id"	:	8
+	},{
+		"id"		:	9,
+		"name"		:	"Bandipora",
+		"slug"		:	"bandipora",
+		"state_id"	:	1,
+		"census_id"	:	9
+	},{
+		"id"		:	10,
+		"name"		:	"Srinagar",
+		"slug"		:	"srinagar",
+		"state_id"	:	1,
+		"census_id"	:	10
+	},{
+		"id"		:	11,
+		"name"		:	"Ganderbal",
+		"slug"		:	"ganderbal",
+		"state_id"	:	1,
+		"census_id"	:	11
+	},{
+		"id"		:	12,
+		"name"		:	"Pulwama",
+		"slug"		:	"pulwama",
+		"state_id"	:	1,
+		"census_id"	:	12
+	},{
+		"id"		:	13,
+		"name"		:	"Shupiyan",
+		"slug"		:	"shupiyan",
+		"state_id"	:	1,
+		"census_id"	:	13
+	},{
+		"id"		:	14,
+		"name"		:	"Anantnag",
+		"slug"		:	"anantnag",
+		"state_id"	:	1,
+		"census_id"	:	14
+	},{
+		"id"		:	15,
+		"name"		:	"Kulgam",
+		"slug"		:	"kulgam",
+		"state_id"	:	1,
+		"census_id"	:	15
+	},{
+		"id"		:	16,
+		"name"		:	"Doda",
+		"slug"		:	"doda",
+		"state_id"	:	1,
+		"census_id"	:	16
+	},{
+		"id"		:	17,
+		"name"		:	"Ramban",
+		"slug"		:	"ramban",
+		"state_id"	:	1,
+		"census_id"	:	17
+	},{
+		"id"		:	18,
+		"name"		:	"Kishtwar",
+		"slug"		:	"kishtwar",
+		"state_id"	:	1,
+		"census_id"	:	18
+	},{
+		"id"		:	19,
+		"name"		:	"Udhampur",
+		"slug"		:	"udhampur",
+		"state_id"	:	1,
+		"census_id"	:	19
+	},{
+		"id"		:	20,
+		"name"		:	"Reasi",
+		"slug"		:	"reasi",
+		"state_id"	:	1,
+		"census_id"	:	20
+	},{
+		"id"		:	21,
+		"name"		:	"Jammu",
+		"slug"		:	"jammu",
+		"state_id"	:	1,
+		"census_id"	:	21
+	},{
+		"id"		:	22,
+		"name"		:	"Samba",
+		"slug"		:	"samba",
+		"state_id"	:	1,
+		"census_id"	:	22
+	},{
+		"id"		:	23,
+		"name"		:	"Chamba",
+		"slug"		:	"chamba",
+		"state_id"	:	2,
+		"census_id"	:	23
+	},{
+		"id"		:	24,
+		"name"		:	"Kangra",
+		"slug"		:	"kangra",
+		"state_id"	:	2,
+		"census_id"	:	24
+	},{
+		"id"		:	25,
+		"name"		:	"Lahul And Spiti",
+		"slug"		:	"lahul-and-spiti",
+		"state_id"	:	2,
+		"census_id"	:	25
+	},{
+		"id"		:	26,
+		"name"		:	"Kullu",
+		"slug"		:	"kullu",
+		"state_id"	:	2,
+		"census_id"	:	26
+	},{
+		"id"		:	27,
+		"name"		:	"Mandi",
+		"slug"		:	"mandi",
+		"state_id"	:	2,
+		"census_id"	:	27
+	},{
+		"id"		:	28,
+		"name"		:	"Hamirpur",
+		"slug"		:	"hamirpur",
+		"state_id"	:	2,
+		"census_id"	:	28
+	},{
+		"id"		:	29,
+		"name"		:	"Una",
+		"slug"		:	"una",
+		"state_id"	:	2,
+		"census_id"	:	29
+	},{
+		"id"		:	30,
+		"name"		:	"Bilaspur",
+		"slug"		:	"bilaspur",
+		"state_id"	:	2,
+		"census_id"	:	30
+	},{
+		"id"		:	31,
+		"name"		:	"Solan",
+		"slug"		:	"solan",
+		"state_id"	:	2,
+		"census_id"	:	31
+	},{
+		"id"		:	32,
+		"name"		:	"Sirmaur",
+		"slug"		:	"sirmaur",
+		"state_id"	:	2,
+		"census_id"	:	32
+	},{
+		"id"		:	33,
+		"name"		:	"Shimla",
+		"slug"		:	"shimla",
+		"state_id"	:	2,
+		"census_id"	:	33
+	},{
+		"id"		:	34,
+		"name"		:	"Kinnaur",
+		"slug"		:	"kinnaur",
+		"state_id"	:	2,
+		"census_id"	:	34
+	},{
+		"id"		:	35,
+		"name"		:	"Gurdaspur",
+		"slug"		:	"gurdaspur",
+		"state_id"	:	3,
+		"census_id"	:	35
+	},{
+		"id"		:	36,
+		"name"		:	"Kapurthala",
+		"slug"		:	"kapurthala",
+		"state_id"	:	3,
+		"census_id"	:	36
+	},{
+		"id"		:	37,
+		"name"		:	"Jalandhar",
+		"slug"		:	"jalandhar",
+		"state_id"	:	3,
+		"census_id"	:	37
+	},{
+		"id"		:	38,
+		"name"		:	"Hoshiarpur",
+		"slug"		:	"hoshiarpur",
+		"state_id"	:	3,
+		"census_id"	:	38
+	},{
+		"id"		:	39,
+		"name"		:	"Shahid Bhagat Singh Nagar",
+		"slug"		:	"shahid-bhagat-singh-nagar",
+		"state_id"	:	3,
+		"census_id"	:	39
+	},{
+		"id"		:	40,
+		"name"		:	"Fatehgarh Sahib",
+		"slug"		:	"fatehgarh-sahib",
+		"state_id"	:	3,
+		"census_id"	:	40
+	},{
+		"id"		:	41,
+		"name"		:	"Ludhiana",
+		"slug"		:	"ludhiana",
+		"state_id"	:	3,
+		"census_id"	:	41
+	},{
+		"id"		:	42,
+		"name"		:	"Moga",
+		"slug"		:	"moga",
+		"state_id"	:	3,
+		"census_id"	:	42
+	},{
+		"id"		:	43,
+		"name"		:	"Firozpur",
+		"slug"		:	"firozpur",
+		"state_id"	:	3,
+		"census_id"	:	43
+	},{
+		"id"		:	44,
+		"name"		:	"Muktsar",
+		"slug"		:	"muktsar",
+		"state_id"	:	3,
+		"census_id"	:	44
+	},{
+		"id"		:	45,
+		"name"		:	"Faridkot",
+		"slug"		:	"faridkot",
+		"state_id"	:	3,
+		"census_id"	:	45
+	},{
+		"id"		:	46,
+		"name"		:	"Bathinda",
+		"slug"		:	"bathinda",
+		"state_id"	:	3,
+		"census_id"	:	46
+	},{
+		"id"		:	47,
+		"name"		:	"Mansa",
+		"slug"		:	"mansa",
+		"state_id"	:	3,
+		"census_id"	:	47
+	},{
+		"id"		:	48,
+		"name"		:	"Patiala",
+		"slug"		:	"patiala",
+		"state_id"	:	3,
+		"census_id"	:	48
+	},{
+		"id"		:	49,
+		"name"		:	"Amritsar",
+		"slug"		:	"amritsar",
+		"state_id"	:	3,
+		"census_id"	:	49
+	},{
+		"id"		:	50,
+		"name"		:	"Tarn Taran",
+		"slug"		:	"tarn-taran",
+		"state_id"	:	3,
+		"census_id"	:	50
+	},{
+		"id"		:	51,
+		"name"		:	"Rupnagar",
+		"slug"		:	"rupnagar",
+		"state_id"	:	3,
+		"census_id"	:	51
+	},{
+		"id"		:	52,
+		"name"		:	"Sahibzada Ajit Singh Nagar",
+		"slug"		:	"sahibzada-ajit-singh-nagar",
+		"state_id"	:	3,
+		"census_id"	:	52
+	},{
+		"id"		:	53,
+		"name"		:	"Sangrur",
+		"slug"		:	"sangrur",
+		"state_id"	:	3,
+		"census_id"	:	53
+	},{
+		"id"		:	54,
+		"name"		:	"Barnala",
+		"slug"		:	"barnala",
+		"state_id"	:	3,
+		"census_id"	:	54
+	},{
+		"id"		:	55,
+		"name"		:	"Chandigarh",
+		"slug"		:	"chandigarh",
+		"state_id"	:	4,
+		"census_id"	:	55
+	},{
+		"id"		:	56,
+		"name"		:	"Uttarkashi",
+		"slug"		:	"uttarkashi",
+		"state_id"	:	5,
+		"census_id"	:	56
+	},{
+		"id"		:	57,
+		"name"		:	"Chamoli",
+		"slug"		:	"chamoli",
+		"state_id"	:	5,
+		"census_id"	:	57
+	},{
+		"id"		:	58,
+		"name"		:	"Rudraprayag",
+		"slug"		:	"rudraprayag",
+		"state_id"	:	5,
+		"census_id"	:	58
+	},{
+		"id"		:	59,
+		"name"		:	"Tehri Garhwal",
+		"slug"		:	"tehri-garhwal",
+		"state_id"	:	5,
+		"census_id"	:	59
+	},{
+		"id"		:	60,
+		"name"		:	"Dehradun",
+		"slug"		:	"dehradun",
+		"state_id"	:	5,
+		"census_id"	:	60
+	},{
+		"id"		:	61,
+		"name"		:	"Garhwal",
+		"slug"		:	"garhwal",
+		"state_id"	:	5,
+		"census_id"	:	61
+	},{
+		"id"		:	62,
+		"name"		:	"Pithoragarh",
+		"slug"		:	"pithoragarh",
+		"state_id"	:	5,
+		"census_id"	:	62
+	},{
+		"id"		:	63,
+		"name"		:	"Bageshwar",
+		"slug"		:	"bageshwar",
+		"state_id"	:	5,
+		"census_id"	:	63
+	},{
+		"id"		:	64,
+		"name"		:	"Almora",
+		"slug"		:	"almora",
+		"state_id"	:	5,
+		"census_id"	:	64
+	},{
+		"id"		:	65,
+		"name"		:	"Champawat",
+		"slug"		:	"champawat",
+		"state_id"	:	5,
+		"census_id"	:	65
+	},{
+		"id"		:	66,
+		"name"		:	"Nainital",
+		"slug"		:	"nainital",
+		"state_id"	:	5,
+		"census_id"	:	66
+	},{
+		"id"		:	67,
+		"name"		:	"Udham Singh Nagar",
+		"slug"		:	"udham-singh-nagar",
+		"state_id"	:	5,
+		"census_id"	:	67
+	},{
+		"id"		:	68,
+		"name"		:	"Hardwar",
+		"slug"		:	"hardwar",
+		"state_id"	:	5,
+		"census_id"	:	68
+	},{
+		"id"		:	69,
+		"name"		:	"Panchkula",
+		"slug"		:	"panchkula",
+		"state_id"	:	6,
+		"census_id"	:	69
+	},{
+		"id"		:	70,
+		"name"		:	"Ambala",
+		"slug"		:	"ambala",
+		"state_id"	:	6,
+		"census_id"	:	70
+	},{
+		"id"		:	71,
+		"name"		:	"Yamunanagar",
+		"slug"		:	"yamunanagar",
+		"state_id"	:	6,
+		"census_id"	:	71
+	},{
+		"id"		:	72,
+		"name"		:	"Kurukshetra",
+		"slug"		:	"kurukshetra",
+		"state_id"	:	6,
+		"census_id"	:	72
+	},{
+		"id"		:	73,
+		"name"		:	"Kaithal",
+		"slug"		:	"kaithal",
+		"state_id"	:	6,
+		"census_id"	:	73
+	},{
+		"id"		:	74,
+		"name"		:	"Karnal",
+		"slug"		:	"karnal",
+		"state_id"	:	6,
+		"census_id"	:	74
+	},{
+		"id"		:	75,
+		"name"		:	"Panipat",
+		"slug"		:	"panipat",
+		"state_id"	:	6,
+		"census_id"	:	75
+	},{
+		"id"		:	76,
+		"name"		:	"Sonipat",
+		"slug"		:	"sonipat",
+		"state_id"	:	6,
+		"census_id"	:	76
+	},{
+		"id"		:	77,
+		"name"		:	"Jind",
+		"slug"		:	"jind",
+		"state_id"	:	6,
+		"census_id"	:	77
+	},{
+		"id"		:	78,
+		"name"		:	"Fatehabad",
+		"slug"		:	"fatehabad",
+		"state_id"	:	6,
+		"census_id"	:	78
+	},{
+		"id"		:	79,
+		"name"		:	"Sirsa",
+		"slug"		:	"sirsa",
+		"state_id"	:	6,
+		"census_id"	:	79
+	},{
+		"id"		:	80,
+		"name"		:	"Hisar",
+		"slug"		:	"hisar",
+		"state_id"	:	6,
+		"census_id"	:	80
+	},{
+		"id"		:	81,
+		"name"		:	"Bhiwani",
+		"slug"		:	"bhiwani",
+		"state_id"	:	6,
+		"census_id"	:	81
+	},{
+		"id"		:	82,
+		"name"		:	"Rohtak",
+		"slug"		:	"rohtak",
+		"state_id"	:	6,
+		"census_id"	:	82
+	},{
+		"id"		:	83,
+		"name"		:	"Jhajjar",
+		"slug"		:	"jhajjar",
+		"state_id"	:	6,
+		"census_id"	:	83
+	},{
+		"id"		:	84,
+		"name"		:	"Mahendragarh",
+		"slug"		:	"mahendragarh",
+		"state_id"	:	6,
+		"census_id"	:	84
+	},{
+		"id"		:	85,
+		"name"		:	"Rewari",
+		"slug"		:	"rewari",
+		"state_id"	:	6,
+		"census_id"	:	85
+	},{
+		"id"		:	86,
+		"name"		:	"Gurgaon",
+		"slug"		:	"gurgaon",
+		"state_id"	:	6,
+		"census_id"	:	86
+	},{
+		"id"		:	87,
+		"name"		:	"Mewat",
+		"slug"		:	"mewat",
+		"state_id"	:	6,
+		"census_id"	:	87
+	},{
+		"id"		:	88,
+		"name"		:	"Faridabad",
+		"slug"		:	"faridabad",
+		"state_id"	:	6,
+		"census_id"	:	88
+	},{
+		"id"		:	89,
+		"name"		:	"Palwal",
+		"slug"		:	"palwal",
+		"state_id"	:	6,
+		"census_id"	:	89
+	},{
+		"id"		:	90,
+		"name"		:	"North West",
+		"slug"		:	"north-west",
+		"state_id"	:	7,
+		"census_id"	:	90
+	},{
+		"id"		:	91,
+		"name"		:	"North",
+		"slug"		:	"north",
+		"state_id"	:	7,
+		"census_id"	:	91
+	},{
+		"id"		:	92,
+		"name"		:	"North East",
+		"slug"		:	"north-east",
+		"state_id"	:	7,
+		"census_id"	:	92
+	},{
+		"id"		:	93,
+		"name"		:	"East",
+		"slug"		:	"east",
+		"state_id"	:	7,
+		"census_id"	:	93
+	},{
+		"id"		:	94,
+		"name"		:	"Delhi",
+		"slug"		:	"delhi",
+		"state_id"	:	7,
+		"census_id"	:	94
+	},{
+		"id"		:	95,
+		"name"		:	"Central",
+		"slug"		:	"central",
+		"state_id"	:	7,
+		"census_id"	:	95
+	},{
+		"id"		:	96,
+		"name"		:	"West",
+		"slug"		:	"west",
+		"state_id"	:	7,
+		"census_id"	:	96
+	},{
+		"id"		:	97,
+		"name"		:	"South West",
+		"slug"		:	"south-west",
+		"state_id"	:	7,
+		"census_id"	:	97
+	},{
+		"id"		:	98,
+		"name"		:	"South",
+		"slug"		:	"south",
+		"state_id"	:	7,
+		"census_id"	:	98
+	},{
+		"id"		:	99,
+		"name"		:	"Ganganagar",
+		"slug"		:	"ganganagar",
+		"state_id"	:	8,
+		"census_id"	:	99
+	},{
+		"id"		:	100,
+		"name"		:	"Hanumangarh",
+		"slug"		:	"hanumangarh",
+		"state_id"	:	8,
+		"census_id"	:	100
+	},{
+		"id"		:	101,
+		"name"		:	"Bikaner",
+		"slug"		:	"bikaner",
+		"state_id"	:	8,
+		"census_id"	:	101
+	},{
+		"id"		:	102,
+		"name"		:	"Churu",
+		"slug"		:	"churu",
+		"state_id"	:	8,
+		"census_id"	:	102
+	},{
+		"id"		:	103,
+		"name"		:	"Jhunjhunun",
+		"slug"		:	"jhunjhunun",
+		"state_id"	:	8,
+		"census_id"	:	103
+	},{
+		"id"		:	104,
+		"name"		:	"Alwar",
+		"slug"		:	"alwar",
+		"state_id"	:	8,
+		"census_id"	:	104
+	},{
+		"id"		:	105,
+		"name"		:	"Bharatpur",
+		"slug"		:	"bharatpur",
+		"state_id"	:	8,
+		"census_id"	:	105
+	},{
+		"id"		:	106,
+		"name"		:	"Dhaulpur",
+		"slug"		:	"dhaulpur",
+		"state_id"	:	8,
+		"census_id"	:	106
+	},{
+		"id"		:	107,
+		"name"		:	"Karauli",
+		"slug"		:	"karauli",
+		"state_id"	:	8,
+		"census_id"	:	107
+	},{
+		"id"		:	108,
+		"name"		:	"Sawai Madhopur",
+		"slug"		:	"sawai-madhopur",
+		"state_id"	:	8,
+		"census_id"	:	108
+	},{
+		"id"		:	109,
+		"name"		:	"Dausa",
+		"slug"		:	"dausa",
+		"state_id"	:	8,
+		"census_id"	:	109
+	},{
+		"id"		:	110,
+		"name"		:	"Jaipur",
+		"slug"		:	"jaipur",
+		"state_id"	:	8,
+		"census_id"	:	110
+	},{
+		"id"		:	111,
+		"name"		:	"Sikar",
+		"slug"		:	"sikar",
+		"state_id"	:	8,
+		"census_id"	:	111
+	},{
+		"id"		:	112,
+		"name"		:	"Nagaur",
+		"slug"		:	"nagaur",
+		"state_id"	:	8,
+		"census_id"	:	112
+	},{
+		"id"		:	113,
+		"name"		:	"Jodhpur",
+		"slug"		:	"jodhpur",
+		"state_id"	:	8,
+		"census_id"	:	113
+	},{
+		"id"		:	114,
+		"name"		:	"Jaisalmer",
+		"slug"		:	"jaisalmer",
+		"state_id"	:	8,
+		"census_id"	:	114
+	},{
+		"id"		:	115,
+		"name"		:	"Barmer",
+		"slug"		:	"barmer",
+		"state_id"	:	8,
+		"census_id"	:	115
+	},{
+		"id"		:	116,
+		"name"		:	"Jalor",
+		"slug"		:	"jalor",
+		"state_id"	:	8,
+		"census_id"	:	116
+	},{
+		"id"		:	117,
+		"name"		:	"Sirohi",
+		"slug"		:	"sirohi",
+		"state_id"	:	8,
+		"census_id"	:	117
+	},{
+		"id"		:	118,
+		"name"		:	"Pali",
+		"slug"		:	"pali",
+		"state_id"	:	8,
+		"census_id"	:	118
+	},{
+		"id"		:	119,
+		"name"		:	"Ajmer",
+		"slug"		:	"ajmer",
+		"state_id"	:	8,
+		"census_id"	:	119
+	},{
+		"id"		:	120,
+		"name"		:	"Tonk",
+		"slug"		:	"tonk",
+		"state_id"	:	8,
+		"census_id"	:	120
+	},{
+		"id"		:	121,
+		"name"		:	"Bundi",
+		"slug"		:	"bundi",
+		"state_id"	:	8,
+		"census_id"	:	121
+	},{
+		"id"		:	122,
+		"name"		:	"Bhilwara",
+		"slug"		:	"bhilwara",
+		"state_id"	:	8,
+		"census_id"	:	122
+	},{
+		"id"		:	123,
+		"name"		:	"Rajsamand",
+		"slug"		:	"rajsamand",
+		"state_id"	:	8,
+		"census_id"	:	123
+	},{
+		"id"		:	124,
+		"name"		:	"Dungarpur",
+		"slug"		:	"dungarpur",
+		"state_id"	:	8,
+		"census_id"	:	124
+	},{
+		"id"		:	125,
+		"name"		:	"Banswara",
+		"slug"		:	"banswara",
+		"state_id"	:	8,
+		"census_id"	:	125
+	},{
+		"id"		:	126,
+		"name"		:	"Chittaurgarh",
+		"slug"		:	"chittaurgarh",
+		"state_id"	:	8,
+		"census_id"	:	126
+	},{
+		"id"		:	127,
+		"name"		:	"Kota",
+		"slug"		:	"kota",
+		"state_id"	:	8,
+		"census_id"	:	127
+	},{
+		"id"		:	128,
+		"name"		:	"Baran",
+		"slug"		:	"baran",
+		"state_id"	:	8,
+		"census_id"	:	128
+	},{
+		"id"		:	129,
+		"name"		:	"Jhalawar",
+		"slug"		:	"jhalawar",
+		"state_id"	:	8,
+		"census_id"	:	129
+	},{
+		"id"		:	130,
+		"name"		:	"Udaipur",
+		"slug"		:	"udaipur",
+		"state_id"	:	8,
+		"census_id"	:	130
+	},{
+		"id"		:	131,
+		"name"		:	"Pratapgarh",
+		"slug"		:	"pratapgarh",
+		"state_id"	:	8,
+		"census_id"	:	131
+	},{
+		"id"		:	132,
+		"name"		:	"Saharanpur",
+		"slug"		:	"saharanpur",
+		"state_id"	:	9,
+		"census_id"	:	132
+	},{
+		"id"		:	133,
+		"name"		:	"Muzaffarnagar",
+		"slug"		:	"muzaffarnagar",
+		"state_id"	:	9,
+		"census_id"	:	133
+	},{
+		"id"		:	134,
+		"name"		:	"Bijnor",
+		"slug"		:	"bijnor",
+		"state_id"	:	9,
+		"census_id"	:	134
+	},{
+		"id"		:	135,
+		"name"		:	"Moradabad",
+		"slug"		:	"moradabad",
+		"state_id"	:	9,
+		"census_id"	:	135
+	},{
+		"id"		:	136,
+		"name"		:	"Rampur",
+		"slug"		:	"rampur",
+		"state_id"	:	9,
+		"census_id"	:	136
+	},{
+		"id"		:	137,
+		"name"		:	"Jyotiba Phule Nagar",
+		"slug"		:	"jyotiba-phule-nagar",
+		"state_id"	:	9,
+		"census_id"	:	137
+	},{
+		"id"		:	138,
+		"name"		:	"Meerut",
+		"slug"		:	"meerut",
+		"state_id"	:	9,
+		"census_id"	:	138
+	},{
+		"id"		:	139,
+		"name"		:	"Baghpat",
+		"slug"		:	"baghpat",
+		"state_id"	:	9,
+		"census_id"	:	139
+	},{
+		"id"		:	140,
+		"name"		:	"Ghaziabad",
+		"slug"		:	"ghaziabad",
+		"state_id"	:	9,
+		"census_id"	:	140
+	},{
+		"id"		:	141,
+		"name"		:	"Gautam Buddha Nagar",
+		"slug"		:	"gautam-buddha-nagar",
+		"state_id"	:	9,
+		"census_id"	:	141
+	},{
+		"id"		:	142,
+		"name"		:	"Bulandshahr",
+		"slug"		:	"bulandshahr",
+		"state_id"	:	9,
+		"census_id"	:	142
+	},{
+		"id"		:	143,
+		"name"		:	"Aligarh",
+		"slug"		:	"aligarh",
+		"state_id"	:	9,
+		"census_id"	:	143
+	},{
+		"id"		:	144,
+		"name"		:	"Mahamaya Nagar",
+		"slug"		:	"mahamaya-nagar",
+		"state_id"	:	9,
+		"census_id"	:	144
+	},{
+		"id"		:	145,
+		"name"		:	"Mathura",
+		"slug"		:	"mathura",
+		"state_id"	:	9,
+		"census_id"	:	145
+	},{
+		"id"		:	146,
+		"name"		:	"Agra",
+		"slug"		:	"agra",
+		"state_id"	:	9,
+		"census_id"	:	146
+	},{
+		"id"		:	147,
+		"name"		:	"Firozabad",
+		"slug"		:	"firozabad",
+		"state_id"	:	9,
+		"census_id"	:	147
+	},{
+		"id"		:	148,
+		"name"		:	"Mainpuri",
+		"slug"		:	"mainpuri",
+		"state_id"	:	9,
+		"census_id"	:	148
+	},{
+		"id"		:	149,
+		"name"		:	"Budaun",
+		"slug"		:	"budaun",
+		"state_id"	:	9,
+		"census_id"	:	149
+	},{
+		"id"		:	150,
+		"name"		:	"Bareilly",
+		"slug"		:	"bareilly",
+		"state_id"	:	9,
+		"census_id"	:	150
+	},{
+		"id"		:	151,
+		"name"		:	"Pilibhit",
+		"slug"		:	"pilibhit",
+		"state_id"	:	9,
+		"census_id"	:	151
+	},{
+		"id"		:	152,
+		"name"		:	"Shahjahanpur",
+		"slug"		:	"shahjahanpur",
+		"state_id"	:	9,
+		"census_id"	:	152
+	},{
+		"id"		:	153,
+		"name"		:	"Kheri",
+		"slug"		:	"kheri",
+		"state_id"	:	9,
+		"census_id"	:	153
+	},{
+		"id"		:	154,
+		"name"		:	"Sitapur",
+		"slug"		:	"sitapur",
+		"state_id"	:	9,
+		"census_id"	:	154
+	},{
+		"id"		:	155,
+		"name"		:	"Hardoi",
+		"slug"		:	"hardoi",
+		"state_id"	:	9,
+		"census_id"	:	155
+	},{
+		"id"		:	156,
+		"name"		:	"Unnao",
+		"slug"		:	"unnao",
+		"state_id"	:	9,
+		"census_id"	:	156
+	},{
+		"id"		:	157,
+		"name"		:	"Lucknow",
+		"slug"		:	"lucknow",
+		"state_id"	:	9,
+		"census_id"	:	157
+	},{
+		"id"		:	158,
+		"name"		:	"Rae Bareli",
+		"slug"		:	"rae-bareli",
+		"state_id"	:	9,
+		"census_id"	:	158
+	},{
+		"id"		:	159,
+		"name"		:	"Farrukhabad",
+		"slug"		:	"farrukhabad",
+		"state_id"	:	9,
+		"census_id"	:	159
+	},{
+		"id"		:	160,
+		"name"		:	"Kannauj",
+		"slug"		:	"kannauj",
+		"state_id"	:	9,
+		"census_id"	:	160
+	},{
+		"id"		:	161,
+		"name"		:	"Etawah",
+		"slug"		:	"etawah",
+		"state_id"	:	9,
+		"census_id"	:	161
+	},{
+		"id"		:	162,
+		"name"		:	"Auraiya",
+		"slug"		:	"auraiya",
+		"state_id"	:	9,
+		"census_id"	:	162
+	},{
+		"id"		:	163,
+		"name"		:	"Kanpur Dehat",
+		"slug"		:	"kanpur-dehat",
+		"state_id"	:	9,
+		"census_id"	:	163
+	},{
+		"id"		:	164,
+		"name"		:	"Kanpur Nagar",
+		"slug"		:	"kanpur-nagar",
+		"state_id"	:	9,
+		"census_id"	:	164
+	},{
+		"id"		:	165,
+		"name"		:	"Jalaun",
+		"slug"		:	"jalaun",
+		"state_id"	:	9,
+		"census_id"	:	165
+	},{
+		"id"		:	166,
+		"name"		:	"Jhansi",
+		"slug"		:	"jhansi",
+		"state_id"	:	9,
+		"census_id"	:	166
+	},{
+		"id"		:	167,
+		"name"		:	"Lalitpur",
+		"slug"		:	"lalitpur",
+		"state_id"	:	9,
+		"census_id"	:	167
+	},{
+		"id"		:	168,
+		"name"		:	"Hamirpur",
+		"slug"		:	"hamirpur-1",
+		"state_id"	:	9,
+		"census_id"	:	168
+	},{
+		"id"		:	169,
+		"name"		:	"Mahoba",
+		"slug"		:	"mahoba",
+		"state_id"	:	9,
+		"census_id"	:	169
+	},{
+		"id"		:	170,
+		"name"		:	"Banda",
+		"slug"		:	"banda",
+		"state_id"	:	9,
+		"census_id"	:	170
+	},{
+		"id"		:	171,
+		"name"		:	"Chitrakoot",
+		"slug"		:	"chitrakoot",
+		"state_id"	:	9,
+		"census_id"	:	171
+	},{
+		"id"		:	172,
+		"name"		:	"Fatehpur",
+		"slug"		:	"fatehpur",
+		"state_id"	:	9,
+		"census_id"	:	172
+	},{
+		"id"		:	173,
+		"name"		:	"Pratapgarh",
+		"slug"		:	"pratapgarh-1",
+		"state_id"	:	9,
+		"census_id"	:	173
+	},{
+		"id"		:	174,
+		"name"		:	"Kaushambi",
+		"slug"		:	"kaushambi",
+		"state_id"	:	9,
+		"census_id"	:	174
+	},{
+		"id"		:	175,
+		"name"		:	"Allahabad",
+		"slug"		:	"allahabad",
+		"state_id"	:	9,
+		"census_id"	:	175
+	},{
+		"id"		:	176,
+		"name"		:	"Barabanki",
+		"slug"		:	"barabanki",
+		"state_id"	:	9,
+		"census_id"	:	176
+	},{
+		"id"		:	177,
+		"name"		:	"Faizabad",
+		"slug"		:	"faizabad",
+		"state_id"	:	9,
+		"census_id"	:	177
+	},{
+		"id"		:	178,
+		"name"		:	"Ambedkar Nagar",
+		"slug"		:	"ambedkar-nagar",
+		"state_id"	:	9,
+		"census_id"	:	178
+	},{
+		"id"		:	179,
+		"name"		:	"Sultanpur",
+		"slug"		:	"sultanpur",
+		"state_id"	:	9,
+		"census_id"	:	179
+	},{
+		"id"		:	180,
+		"name"		:	"Bahraich",
+		"slug"		:	"bahraich",
+		"state_id"	:	9,
+		"census_id"	:	180
+	},{
+		"id"		:	181,
+		"name"		:	"Shrawasti",
+		"slug"		:	"shrawasti",
+		"state_id"	:	9,
+		"census_id"	:	181
+	},{
+		"id"		:	182,
+		"name"		:	"Balrampur",
+		"slug"		:	"balrampur",
+		"state_id"	:	9,
+		"census_id"	:	182
+	},{
+		"id"		:	183,
+		"name"		:	"Gonda",
+		"slug"		:	"gonda",
+		"state_id"	:	9,
+		"census_id"	:	183
+	},{
+		"id"		:	184,
+		"name"		:	"Siddharthnagar",
+		"slug"		:	"siddharthnagar",
+		"state_id"	:	9,
+		"census_id"	:	184
+	},{
+		"id"		:	185,
+		"name"		:	"Basti",
+		"slug"		:	"basti",
+		"state_id"	:	9,
+		"census_id"	:	185
+	},{
+		"id"		:	186,
+		"name"		:	"Sant Kabir Nagar",
+		"slug"		:	"sant-kabir-nagar",
+		"state_id"	:	9,
+		"census_id"	:	186
+	},{
+		"id"		:	187,
+		"name"		:	"Mahrajganj",
+		"slug"		:	"mahrajganj",
+		"state_id"	:	9,
+		"census_id"	:	187
+	},{
+		"id"		:	188,
+		"name"		:	"Gorakhpur",
+		"slug"		:	"gorakhpur",
+		"state_id"	:	9,
+		"census_id"	:	188
+	},{
+		"id"		:	189,
+		"name"		:	"Kushinagar",
+		"slug"		:	"kushinagar",
+		"state_id"	:	9,
+		"census_id"	:	189
+	},{
+		"id"		:	190,
+		"name"		:	"Deoria",
+		"slug"		:	"deoria",
+		"state_id"	:	9,
+		"census_id"	:	190
+	},{
+		"id"		:	191,
+		"name"		:	"Azamgarh",
+		"slug"		:	"azamgarh",
+		"state_id"	:	9,
+		"census_id"	:	191
+	},{
+		"id"		:	192,
+		"name"		:	"Mau",
+		"slug"		:	"mau",
+		"state_id"	:	9,
+		"census_id"	:	192
+	},{
+		"id"		:	193,
+		"name"		:	"Ballia",
+		"slug"		:	"ballia",
+		"state_id"	:	9,
+		"census_id"	:	193
+	},{
+		"id"		:	194,
+		"name"		:	"Jaunpur",
+		"slug"		:	"jaunpur",
+		"state_id"	:	9,
+		"census_id"	:	194
+	},{
+		"id"		:	195,
+		"name"		:	"Ghazipur",
+		"slug"		:	"ghazipur",
+		"state_id"	:	9,
+		"census_id"	:	195
+	},{
+		"id"		:	196,
+		"name"		:	"Chandauli",
+		"slug"		:	"chandauli",
+		"state_id"	:	9,
+		"census_id"	:	196
+	},{
+		"id"		:	197,
+		"name"		:	"Varanasi",
+		"slug"		:	"varanasi",
+		"state_id"	:	9,
+		"census_id"	:	197
+	},{
+		"id"		:	198,
+		"name"		: 	"Sant Ravidas Nagar (bhadohi)",
+		"slug"		:	"sant-ravidas-nagar-bhadohi",
+		"state_id"	:	9,
+		"census_id"	:	198
+	},{
+		"id"		:	199,
+		"name"		:	"Mirzapur",
+		"slug"		:	"mirzapur",
+		"state_id"	:	9,
+		"census_id"	:	199
+	},{
+		"id"		:	200,
+		"name"		:	"Sonbhadra",
+		"slug"		:	"sonbhadra",
+		"state_id"	:	9,
+		"census_id"	:	200
+	},{
+		"id"		:	201,
+		"name"		:	"Etah",
+		"slug"		:	"etah",
+		"state_id"	:	9,
+		"census_id"	:	201
+	},{
+		"id"		:	202,
+		"name"		:	"Kanshiram Nagar",
+		"slug"		:	"kanshiram-nagar",
+		"state_id"	:	9,
+		"census_id"	:	202
+	},{
+		"id"		:	203,
+		"name"		:	"Pashchim Champaran",
+		"slug"		:	"pashchim-champaran",
+		"state_id"	:	10,
+		"census_id"	:	203
+	},{
+		"id"		:	204,
+		"name"		:	"Purba Champaran",
+		"slug"		:	"purba-champaran",
+		"state_id"	:	10,
+		"census_id"	:	204
+	},{
+		"id"		:	205,
+		"name"		:	"Sheohar",
+		"slug"		:	"sheohar",
+		"state_id"	:	10,
+		"census_id"	:	205
+	},{
+		"id"		:	206,
+		"name"		:	"Sitamarhi",
+		"slug"		:	"sitamarhi",
+		"state_id"	:	10,
+		"census_id"	:	206
+	},{
+		"id"		:	207,
+		"name"		:	"Madhubani",
+		"slug"		:	"madhubani",
+		"state_id"	:	10,
+		"census_id"	:	207
+	},{
+		"id"		:	208,
+		"name"		:	"Supaul",
+		"slug"		:	"supaul",
+		"state_id"	:	10,
+		"census_id"	:	208
+	},{
+		"id"		:	209,
+		"name"		:	"Araria",
+		"slug"		:	"araria",
+		"state_id"	:	10,
+		"census_id"	:	209
+	},{
+		"id"		:	210,
+		"name"		:	"Kishanganj",
+		"slug"		:	"kishanganj",
+		"state_id"	:	10,
+		"census_id"	:	210
+	},{
+		"id"		:	211,
+		"name"		:	"Purnia",
+		"slug"		:	"purnia",
+		"state_id"	:	10,
+		"census_id"	:	211
+	},{
+		"id"		:	212,
+		"name"		:	"Katihar",
+		"slug"		:	"katihar",
+		"state_id"	:	10,
+		"census_id"	:	212
+	},{
+		"id"		:	213,
+		"name"		:	"Madhepura",
+		"slug"		:	"madhepura",
+		"state_id"	:	10,
+		"census_id"	:	213
+	},{
+		"id"		:	214,
+		"name"		:	"Saharsa",
+		"slug"		:	"saharsa",
+		"state_id"	:	10,
+		"census_id"	:	214
+	},{
+		"id"		:	215,
+		"name"		:	"Darbhanga",
+		"slug"		:	"darbhanga",
+		"state_id"	:	10,
+		"census_id"	:	215
+	},{
+		"id"		:	216,
+		"name"		:	"Muzaffarpur",
+		"slug"		:	"muzaffarpur",
+		"state_id"	:	10,
+		"census_id"	:	216
+	},{
+		"id"		:	217,
+		"name"		:	"Gopalganj",
+		"slug"		:	"gopalganj",
+		"state_id"	:	10,
+		"census_id"	:	217
+	},{
+		"id"		:	218,
+		"name"		:	"Siwan",
+		"slug"		:	"siwan",
+		"state_id"	:	10,
+		"census_id"	:	218
+	},{
+		"id"		:	219,
+		"name"		:	"Saran",
+		"slug"		:	"saran",
+		"state_id"	:	10,
+		"census_id"	:	219
+	},{
+		"id"		:	220,
+		"name"		:	"Vaishali",
+		"slug"		:	"vaishali",
+		"state_id"	:	10,
+		"census_id"	:	220
+	},{
+		"id"		:	221,
+		"name"		:	"Samastipur",
+		"slug"		:	"samastipur",
+		"state_id"	:	10,
+		"census_id"	:	221
+	},{
+		"id"		:	222,
+		"name"		:	"Begusarai",
+		"slug"		:	"begusarai",
+		"state_id"	:	10,
+		"census_id"	:	222
+	},{
+		"id"		:	223,
+		"name"		:	"Khagaria",
+		"slug"		:	"khagaria",
+		"state_id"	:	10,
+		"census_id"	:	223
+	},{
+		"id"		:	224,
+		"name"		:	"Bhagalpur",
+		"slug"		:	"bhagalpur",
+		"state_id"	:	10,
+		"census_id"	:	224
+	},{
+		"id"		:	225,
+		"name"		:	"Banka",
+		"slug"		:	"banka",
+		"state_id"	:	10,
+		"census_id"	:	225
+	},{
+		"id"		:	226,
+		"name"		:	"Munger",
+		"slug"		:	"munger",
+		"state_id"	:	10,
+		"census_id"	:	226
+	},{
+		"id"		:	227,
+		"name"		:	"Lakhisarai",
+		"slug"		:	"lakhisarai",
+		"state_id"	:	10,
+		"census_id"	:	227
+	},{
+		"id"		:	228,
+		"name"		:	"Sheikhpura",
+		"slug"		:	"sheikhpura",
+		"state_id"	:	10,
+		"census_id"	:	228
+	},{
+		"id"		:	229,
+		"name"		:	"Nalanda",
+		"slug"		:	"nalanda",
+		"state_id"	:	10,
+		"census_id"	:	229
+	},{
+		"id"		:	230,
+		"name"		:	"Patna",
+		"slug"		:	"patna",
+		"state_id"	:	10,
+		"census_id"	:	230
+	},{
+		"id"		:	231,
+		"name"		:	"Bhojpur",
+		"slug"		:	"bhojpur",
+		"state_id"	:	10,
+		"census_id"	:	231
+	},{
+		"id"		:	232,
+		"name"		:	"Buxar",
+		"slug"		:	"buxar",
+		"state_id"	:	10,
+		"census_id"	:	232
+	},{
+		"id"		:	233,
+		"name"		:	"Kaimur (bhabua)",
+		"slug"		:	"kaimur-bhabua",
+		"state_id"	:	10,
+		"census_id"	:	233
+	},{
+		"id"		:	234,
+		"name"		:	"Rohtas",
+		"slug"		:	"rohtas",
+		"state_id"	:	10,
+		"census_id"	:	234
+	},{
+		"id"		:	235,
+		"name"		:	"Aurangabad",
+		"slug"		:	"aurangabad",
+		"state_id"	:	10,
+		"census_id"	:	235
+	},{
+		"id"		:	236,
+		"name"		:	"Gaya",
+		"slug"		:	"gaya",
+		"state_id"	:	10,
+		"census_id"	:	236
+	},{
+		"id"		:	237,
+		"name"		:	"Nawada",
+		"slug"		:	"nawada",
+		"state_id"	:	10,
+		"census_id"	:	237
+	},{
+		"id"		:	238,
+		"name"		:	"Jamui",
+		"slug"		:	"jamui",
+		"state_id"	:	10,
+		"census_id"	:	238
+	},{
+		"id"		:	239,
+		"name"		:	"Jehanabad",
+		"slug"		:	"jehanabad",
+		"state_id"	:	10,
+		"census_id"	:	239
+	},{
+		"id"		:	240,
+		"name"		:	"Arwal",
+		"slug"		:	"arwal",
+		"state_id"	:	10,
+		"census_id"	:	240
+	},{
+		"id"		:	241,
+		"name"		:	"North  District",
+		"slug"		:	"north-district",
+		"state_id"	:	11,
+		"census_id"	:	241
+	},{
+		"id"		:	242,
+		"name"		:	"West District",
+		"slug"		:	"west-district",
+		"state_id"	:	11,
+		"census_id"	:	242
+	},{
+		"id"		:	243,
+		"name"		:	"South District",
+		"slug"		:	"south-district",
+		"state_id"	:	11,
+		"census_id"	:	243
+	},{
+		"id"		:	244,
+		"name"		:	"East District",
+		"slug"		:	"east-district",
+		"state_id"	:	11,
+		"census_id"	:	244
+	},{
+		"id"		:	245,
+		"name"		:	"Tawang",
+		"slug"		:	"tawang",
+		"state_id"	:	12,
+		"census_id"	:	245
+	},{
+		"id"		:	246,
+		"name"		:	"West Kameng",
+		"slug"		:	"west-kameng",
+		"state_id"	:	12,
+		"census_id"	:	246
+	},{
+		"id"		:	247,
+		"name"		:	"East Kameng",
+		"slug"		:	"east-kameng",
+		"state_id"	:	12,
+		"census_id"	:	247
+	},{
+		"id"		:	248,
+		"name"		:	"Papum Pare",
+		"slug"		:	"papum-pare",
+		"state_id"	:	12,
+		"census_id"	:	248
+	},{
+		"id"		:	249,
+		"name"		:	"Upper Subansiri",
+		"slug"		:	"upper-subansiri",
+		"state_id"	:	12,
+		"census_id"	:	249
+	},{
+		"id"		:	250,
+		"name"		:	"West Siang",
+		"slug"		:	"west-siang",
+		"state_id"	:	12,
+		"census_id"	:	250
+	},{
+		"id"		:	251,
+		"name"		:	"East Siang",
+		"slug"		:	"east-siang",
+		"state_id"	:	12,
+		"census_id"	:	251
+	},{
+		"id"		:	252,
+		"name"		:	"Upper Siang",
+		"slug"		:	"upper-siang",
+		"state_id"	:	12,
+		"census_id"	:	252
+	},{
+		"id"		:	253,
+		"name"		:	"Changlang",
+		"slug"		:	"changlang",
+		"state_id"	:	12,
+		"census_id"	:	253
+	},{
+		"id"		:	254,
+		"name"		:	"Tirap",
+		"slug"		:	"tirap",
+		"state_id"	:	12,
+		"census_id"	:	254
+	},{
+		"id"		:	255,
+		"name"		:	"Lower Subansiri",
+		"slug"		:	"lower-subansiri",
+		"state_id"	:	12,
+		"census_id"	:	255
+	},{
+		"id"		:	256,
+		"name"		:	"Kurung Kumey",
+		"slug"		:	"kurung-kumey",
+		"state_id"	:	12,
+		"census_id"	:	256
+	},{
+		"id"		:	257,
+		"name"		:	"Dibang Valley",
+		"slug"		:	"dibang-valley",
+		"state_id"	:	12,
+		"census_id"	:	257
+	},{
+		"id"		:	258,
+		"name"		:	"Lower Dibang Valley",
+		"slug"		:	"lower-dibang-valley",
+		"state_id"	:	12,
+		"census_id"	:	258
+	},{
+		"id"		:	259,
+		"name"		:	"Lohit",
+		"slug"		:	"lohit",
+		"state_id"	:	12,
+		"census_id"	:	259
+	},{
+		"id"		:	260,
+		"name"		:	"Anjaw",
+		"slug"		:	"anjaw",
+		"state_id"	:	12,
+		"census_id"	:	260
+	},{
+		"id"		:	261,
+		"name"		:	"Mon",
+		"slug"		:	"mon",
+		"state_id"	:	13,
+		"census_id"	:	261
+	},{
+		"id"		:	262,
+		"name"		:	"Mokokchung",
+		"slug"		:	"mokokchung",
+		"state_id"	:	13,
+		"census_id"	:	262
+	},{
+		"id"		:	263,
+		"name"		:	"Zunheboto",
+		"slug"		:	"zunheboto",
+		"state_id"	:	13,
+		"census_id"	:	263
+	},{
+		"id"		:	264,
+		"name"		:	"Wokha",
+		"slug"		:	"wokha",
+		"state_id"	:	13,
+		"census_id"	:	264
+	},{
+		"id"		:	265,
+		"name"		:	"Dimapur",
+		"slug"		:	"dimapur",
+		"state_id"	:	13,
+		"census_id"	:	265
+	},{
+		"id"		:	266,
+		"name"		:	"Phek",
+		"slug"		:	"phek",
+		"state_id"	:	13,
+		"census_id"	:	266
+	},{
+		"id"		:	267,
+		"name"		:	"Tuensang",
+		"slug"		:	"tuensang",
+		"state_id"	:	13,
+		"census_id"	:	267
+	},{
+		"id"		:	268,
+		"name"		:	"Longleng",
+		"slug"		:	"longleng",
+		"state_id"	:	13,
+		"census_id"	:	268
+	},{
+		"id"		:	269,
+		"name"		:	"Kiphire",
+		"slug"		:	"kiphire",
+		"state_id"	:	13,
+		"census_id"	:	269
+	},{
+		"id"		:	270,
+		"name"		:	"Kohima",
+		"slug"		:	"kohima",
+		"state_id"	:	13,
+		"census_id"	:	270
+	},{
+		"id"		:	271,
+		"name"		:	"Peren",
+		"slug"		:	"peren",
+		"state_id"	:	13,
+		"census_id"	:	271
+	},{
+		"id"		:	272,
+		"name"		:	"Senapati",
+		"slug"		:	"senapati",
+		"state_id"	:	14,
+		"census_id"	:	272
+	},{
+		"id"		:	273,
+		"name"		:	"Tamenglong",
+		"slug"		:	"tamenglong",
+		"state_id"	:	14,
+		"census_id"	:	273
+	},{
+		"id"		:	274,
+		"name"		:	"Churachandpur",
+		"slug"		:	"churachandpur",
+		"state_id"	:	14,
+		"census_id"	:	274
+	},{
+		"id"		:	275,
+		"name"		:	"Bishnupur",
+		"slug"		:	"bishnupur",
+		"state_id"	:	14,
+		"census_id"	:	275
+	},{
+		"id"		:	276,
+		"name"		:	"Thoubal",
+		"slug"		:	"thoubal",
+		"state_id"	:	14,
+		"census_id"	:	276
+	},{
+		"id"		:	277,
+		"name"		:	"Imphal West",
+		"slug"		:	"imphal-west",
+		"state_id"	:	14,
+		"census_id"	:	277
+	},{
+		"id"		:	278,
+		"name"		:	"Imphal East",
+		"slug"		:	"imphal-east",
+		"state_id"	:	14,
+		"census_id"	:	278
+	},{
+		"id"		:	279,
+		"name"		:	"Ukhrul",
+		"slug"		:	"ukhrul",
+		"state_id"	:	14,
+		"census_id"	:	279
+	},{
+		"id"		:	280,
+		"name"		:	"Chandel",
+		"slug"		:	"chandel",
+		"state_id"	:	14,
+		"census_id"	:	280
+	},{
+		"id"		:	281,
+		"name"		:	"Mamit",
+		"slug"		:	"mamit",
+		"state_id"	:	15,
+		"census_id"	:	281
+	},{
+		"id"		:	282,
+		"name"		:	"Kolasib",
+		"slug"		:	"kolasib",
+		"state_id"	:	15,
+		"census_id"	:	282
+	},{
+		"id"		:	283,
+		"name"		:	"Aizawl",
+		"slug"		:	"aizawl",
+		"state_id"	:	15,
+		"census_id"	:	283
+	},{
+		"id"		:	284,
+		"name"		:	"Champhai",
+		"slug"		:	"champhai",
+		"state_id"	:	15,
+		"census_id"	:	284
+	},{
+		"id"		:	285,
+		"name"		:	"Serchhip",
+		"slug"		:	"serchhip",
+		"state_id"	:	15,
+		"census_id"	:	285
+	},{
+		"id"		:	286,
+		"name"		:	"Lunglei",
+		"slug"		:	"lunglei",
+		"state_id"	:	15,
+		"census_id"	:	286
+	},{
+		"id"		:	287,
+		"name"		:	"Lawngtlai",
+		"slug"		:	"lawngtlai",
+		"state_id"	:	15,
+		"census_id"	:	287
+	},{
+		"id"		:	288,
+		"name"		:	"Saiha",
+		"slug"		:	"saiha",
+		"state_id"	:	15,
+		"census_id"	:	288
+	},{
+		"id"		:	289,
+		"name"		:	"West Tripura",
+		"slug"		:	"west-tripura",
+		"state_id"	:	16,
+		"census_id"	:	289
+	},{
+		"id"		:	290,
+		"name"		:	"South Tripura",
+		"slug"		:	"south-tripura",
+		"state_id"	:	16,
+		"census_id"	:	290
+	},{
+		"id"		:	291,
+		"name"		:	"Dhalai",
+		"slug"		:	"dhalai",
+		"state_id"	:	16,
+		"census_id"	:	291
+	},{
+		"id"		:	292,
+		"name"		:	"North Tripura",
+		"slug"		:	"north-tripura",
+		"state_id"	:	16,
+		"census_id"	:	292
+	},{
+		"id"		:	293,
+		"name"		:	"West Garo Hills",
+		"slug"		:	"west-garo-hills",
+		"state_id"	:	17,
+		"census_id"	:	293
+	},{
+		"id"		:	294,
+		"name"		:	"East Garo Hills",
+		"slug"		:	"east-garo-hills",
+		"state_id"	:	17,
+		"census_id"	:	294
+	},{
+		"id"		:	295,
+		"name"		:	"South Garo Hills",
+		"slug"		:	"south-garo-hills",
+		"state_id"	:	17,
+		"census_id"	:	295
+	},{
+		"id"		:	296,
+		"name"		:	"West Khasi Hills",
+		"slug"		:	"west-khasi-hills",
+		"state_id"	:	17,
+		"census_id"	:	296
+	},{
+		"id"		:	297,
+		"name"		:	"Ri Bhoi",
+		"slug"		:	"ri-bhoi",
+		"state_id"	:	17,
+		"census_id"	:	297
+	},{
+		"id"		:	298,
+		"name"		:	"East Khasi Hills",
+		"slug"		:	"east-khasi-hills",
+		"state_id"	:	17,
+		"census_id"	:	298
+	},{
+		"id"		:	299,
+		"name"		:	"Jaintia Hills",
+		"slug"		:	"jaintia-hills",
+		"state_id"	:	17,
+		"census_id"	:	299
+	},{
+		"id"		:	300,
+		"name"		:	"Kokrajhar",
+		"slug"		:	"kokrajhar",
+		"state_id"	:	18,
+		"census_id"	:	300
+	},{
+		"id"		:	301,
+		"name"		:	"Dhubri",
+		"slug"		:	"dhubri",
+		"state_id"	:	18,
+		"census_id"	:	301
+	},{
+		"id"		:	302,
+		"name"		:	"Goalpara",
+		"slug"		:	"goalpara",
+		"state_id"	:	18,
+		"census_id"	:	302
+	},{
+		"id"		:	303,
+		"name"		:	"Barpeta",
+		"slug"		:	"barpeta",
+		"state_id"	:	18,
+		"census_id"	:	303
+	},{
+		"id"		:	304,
+		"name"		:	"Morigaon",
+		"slug"		:	"morigaon",
+		"state_id"	:	18,
+		"census_id"	:	304
+	},{
+		"id"		:	305,
+		"name"		:	"Nagaon",
+		"slug"		:	"nagaon",
+		"state_id"	:	18,
+		"census_id"	:	305
+	},{
+		"id"		:	306,
+		"name"		:	"Sonitpur",
+		"slug"		:	"sonitpur",
+		"state_id"	:	18,
+		"census_id"	:	306
+	},{
+		"id"		:	307,
+		"name"		:	"Lakhimpur",
+		"slug"		:	"lakhimpur",
+		"state_id"	:	18,
+		"census_id"	:	307
+	},{
+		"id"		:	308,
+		"name"		:	"Dhemaji",
+		"slug"		:	"dhemaji",
+		"state_id"	:	18,
+		"census_id"	:	308
+	},{
+		"id"		:	309,
+		"name"		:	"Tinsukia",
+		"slug"		:	"tinsukia",
+		"state_id"	:	18,
+		"census_id"	:	309
+	},{
+		"id"		:	310,
+		"name"		:	"Dibrugarh",
+		"slug"		:	"dibrugarh",
+		"state_id"	:	18,
+		"census_id"	:	310
+	},{
+		"id"		:	311,
+		"name"		:	"Sivasagar",
+		"slug"		:	"sivasagar",
+		"state_id"	:	18,
+		"census_id"	:	311
+	},{
+		"id"		:	312,
+		"name"		:	"Jorhat",
+		"slug"		:	"jorhat",
+		"state_id"	:	18,
+		"census_id"	:	312
+	},{
+		"id"		:	313,
+		"name"		:	"Golaghat",
+		"slug"		:	"golaghat",
+		"state_id"	:	18,
+		"census_id"	:	313
+	},{
+		"id"		:	314,
+		"name"		:	"Karbi Anglong",
+		"slug"		:	"karbi-anglong",
+		"state_id"	:	18,
+		"census_id"	:	314
+	},{
+		"id"		:	315,
+		"name"		:	"Dima Hasao",
+		"slug"		:	"dima-hasao",
+		"state_id"	:	18,
+		"census_id"	:	315
+	},{
+		"id"		:	316,
+		"name"		:	"Cachar",
+		"slug"		:	"cachar",
+		"state_id"	:	18,
+		"census_id"	:	316
+	},{
+		"id"		:	317,
+		"name"		:	"Karimganj",
+		"slug"		:	"karimganj",
+		"state_id"	:	18,
+		"census_id"	:	317
+	},{
+		"id"		:	318,
+		"name"		:	"Hailakandi",
+		"slug"		:	"hailakandi",
+		"state_id"	:	18,
+		"census_id"	:	318
+	},{
+		"id"		:	319,
+		"name"		:	"Bongaigaon",
+		"slug"		:	"bongaigaon",
+		"state_id"	:	18,
+		"census_id"	:	319
+	},{
+		"id"		:	320,
+		"name"		:	"Chirang",
+		"slug"		:	"chirang",
+		"state_id"	:	18,
+		"census_id"	:	320
+	},{
+		"id"		:	321,
+		"name"		:	"Kamrup",
+		"slug"		:	"kamrup",
+		"state_id"	:	18,
+		"census_id"	:	321
+	},{
+		"id"		:	322,
+		"name"		:	"Kamrup Metropolitan",
+		"slug"		:	"kamrup-metropolitan",
+		"state_id"	:	18,
+		"census_id"	:	322
+	},{
+		"id"		:	323,
+		"name"		:	"Nalbari",
+		"slug"		:	"nalbari",
+		"state_id"	:	18,
+		"census_id"	:	323
+	},{
+		"id"		:	324,
+		"name"		:	"Baksa",
+		"slug"		:	"baksa",
+		"state_id"	:	18,
+		"census_id"	:	324
+	},{
+		"id"		:	325,
+		"name"		:	"Darrang",
+		"slug"		:	"darrang",
+		"state_id"	:	18,
+		"census_id"	:	325
+	},{
+		"id"		:	326,
+		"name"		:	"Udalguri",
+		"slug"		:	"udalguri",
+		"state_id"	:	18,
+		"census_id"	:	326
+	},{
+		"id"		:	327,
+		"name"		:	"Darjiling",
+		"slug"		:	"darjiling",
+		"state_id"	:	19,
+		"census_id"	:	327
+	},{
+		"id"		:	328,
+		"name"		:	"Jalpaiguri",
+		"slug"		:	"jalpaiguri",
+		"state_id"	:	19,
+		"census_id"	:	328
+	},{
+		"id"		:	329,
+		"name"		:	"Koch Bihar",
+		"slug"		:	"koch-bihar",
+		"state_id"	:	19,
+		"census_id"	:	329
+	},{
+		"id"		:	330,
+		"name"		:	"Uttar Dinajpur",
+		"slug"		:	"uttar-dinajpur",
+		"state_id"	:	19,
+		"census_id"	:	330
+	},{
+		"id"		:	331,
+		"name"		:	"Dakshin Dinajpur",
+		"slug"		:	"dakshin-dinajpur",
+		"state_id"	:	19,
+		"census_id"	:	331
+	},{
+		"id"		:	332,
+		"name"		:	"Maldah",
+		"slug"		:	"maldah",
+		"state_id"	:	19,
+		"census_id"	:	332
+	},{
+		"id"		:	333,
+		"name"		:	"Murshidabad",
+		"slug"		:	"murshidabad",
+		"state_id"	:	19,
+		"census_id"	:	333
+	},{
+		"id"		:	334,
+		"name"		:	"Birbhum",
+		"slug"		:	"birbhum",
+		"state_id"	:	19,
+		"census_id"	:	334
+	},{
+		"id"		:	335,
+		"name"		:	"Barddhaman",
+		"slug"		:	"barddhaman",
+		"state_id"	:	19,
+		"census_id"	:	335
+	},{
+		"id"		:	336,
+		"name"		:	"Nadia",
+		"slug"		:	"nadia",
+		"state_id"	:	19,
+		"census_id"	:	336
+	},{
+		"id"		:	337,
+		"name"		:	"North Twenty Four Parganas",
+		"slug"		:	"north-twenty-four-parganas",
+		"state_id"	:	19,
+		"census_id"	:	337
+	},{
+		"id"		:	338,
+		"name"		:	"Hugli",
+		"slug"		:	"hugli",
+		"state_id"	:	19,
+		"census_id"	:	338
+	},{
+		"id"		:	339,
+		"name"		:	"Bankura",
+		"slug"		:	"bankura",
+		"state_id"	:	19,
+		"census_id"	:	339
+	},{
+		"id"		:	340,
+		"name"		:	"Puruliya",
+		"slug"		:	"puruliya",
+		"state_id"	:	19,
+		"census_id"	:	340
+	},{
+		"id"		:	341,
+		"name"		:	"Haora",
+		"slug"		:	"haora",
+		"state_id"	:	19,
+		"census_id"	:	341
+	},{
+		"id"		:	342,
+		"name"		:	"Kolkata",
+		"slug"		:	"kolkata",
+		"state_id"	:	19,
+		"census_id"	:	342
+	},{
+		"id"		:	343,
+		"name"		:	"South Twenty Four Parganas",
+		"slug"		:	"south-twenty-four-parganas",
+		"state_id"	:	19,
+		"census_id"	:	343
+	},{
+		"id"		:	344,
+		"name"		:	"Paschim Medinipur",
+		"slug"		:	"paschim-medinipur",
+		"state_id"	:	19,
+		"census_id"	:	344
+	},{
+		"id"		:	345,
+		"name"		:	"Purba Medinipur",
+		"slug"		:	"purba-medinipur",
+		"state_id"	:	19,
+		"census_id"	:	345
+	},{
+		"id"		:	346,
+		"name"		:	"Garhwa",
+		"slug"		:	"garhwa",
+		"state_id"	:	20,
+		"census_id"	:	346
+	},{
+		"id"		:	347,
+		"name"		:	"Chatra",
+		"slug"		:	"chatra",
+		"state_id"	:	20,
+		"census_id"	:	347
+	},{
+		"id"		:	348,
+		"name"		:	"Kodarma",
+		"slug"		:	"kodarma",
+		"state_id"	:	20,
+		"census_id"	:	348
+	},{
+		"id"		:	349,
+		"name"		:	"Giridih",
+		"slug"		:	"giridih",
+		"state_id"	:	20,
+		"census_id"	:	349
+	},{
+		"id"		:	350,
+		"name"		:	"Deoghar",
+		"slug"		:	"deoghar",
+		"state_id"	:	20,
+		"census_id"	:	350
+	},{
+		"id"		:	351,
+		"name"		:	"Godda",
+		"slug"		:	"godda",
+		"state_id"	:	20,
+		"census_id"	:	351
+	},{
+		"id"		:	352,
+		"name"		:	"Sahibganj",
+		"slug"		:	"sahibganj",
+		"state_id"	:	20,
+		"census_id"	:	352
+	},{
+		"id"		:	353,
+		"name"		:	"Pakur",
+		"slug"		:	"pakur",
+		"state_id"	:	20,
+		"census_id"	:	353
+	},{
+		"id"		:	354,
+		"name"		:	"Dhanbad",
+		"slug"		:	"dhanbad",
+		"state_id"	:	20,
+		"census_id"	:	354
+	},{
+		"id"		:	355,
+		"name"		:	"Bokaro",
+		"slug"		:	"bokaro",
+		"state_id"	:	20,
+		"census_id"	:	355
+	},{
+		"id"		:	356,
+		"name"		:	"Lohardaga",
+		"slug"		:	"lohardaga",
+		"state_id"	:	20,
+		"census_id"	:	356
+	},{
+		"id"		:	357,
+		"name"		:	"Purbi Singhbhum",
+		"slug"		:	"purbi-singhbhum",
+		"state_id"	:	20,
+		"census_id"	:	357
+	},{
+		"id"		:	358,
+		"name"		:	"Palamu",
+		"slug"		:	"palamu",
+		"state_id"	:	20,
+		"census_id"	:	358
+	},{
+		"id"		:	359,
+		"name"		:	"Latehar",
+		"slug"		:	"latehar",
+		"state_id"	:	20,
+		"census_id"	:	359
+	},{
+		"id"		:	360,
+		"name"		:	"Hazaribagh",
+		"slug"		:	"hazaribagh",
+		"state_id"	:	20,
+		"census_id"	:	360
+	},{
+		"id"		:	361,
+		"name"		:	"Ramgarh",
+		"slug"		:	"ramgarh",
+		"state_id"	:	20,
+		"census_id"	:	361
+	},{
+		"id"		:	362,
+		"name"		:	"Dumka",
+		"slug"		:	"dumka",
+		"state_id"	:	20,
+		"census_id"	:	362
+	},{
+		"id"		:	363,
+		"name"		:	"Jamtara",
+		"slug"		:	"jamtara",
+		"state_id"	:	20,
+		"census_id"	:	363
+	},{
+		"id"		:	364,
+		"name"		:	"Ranchi",
+		"slug"		:	"ranchi",
+		"state_id"	:	20,
+		"census_id"	:	364
+	},{
+		"id"		:	365,
+		"name"		:	"Khunti",
+		"slug"		:	"khunti",
+		"state_id"	:	20,
+		"census_id"	:	365
+	},{
+		"id"		:	366,
+		"name"		:	"Gumla",
+		"slug"		:	"gumla",
+		"state_id"	:	20,
+		"census_id"	:	366
+	},{
+		"id"		:	367,
+		"name"		:	"Simdega",
+		"slug"		:	"simdega",
+		"state_id"	:	20,
+		"census_id"	:	367
+	},{
+		"id"		:	368,
+		"name"		:	"Pashchimi Singhbhum",
+		"slug"		:	"pashchimi-singhbhum",
+		"state_id"	:	20,
+		"census_id"	:	368
+	},{
+		"id"		:	369,
+		"name"		:	"Saraikela-kharsawan",
+		"slug"		:	"saraikela-kharsawan",
+		"state_id"	:	20,
+		"census_id"	:	369
+	},{
+		"id"		:	370,
+		"name"		:	"Bargarh",
+		"slug"		:	"bargarh",
+		"state_id"	:	21,
+		"census_id"	:	370
+	},{
+		"id"		:	371,
+		"name"		:	"Jharsuguda",
+		"slug"		:	"jharsuguda",
+		"state_id"	:	21,
+		"census_id"	:	371
+	},{
+		"id"		:	372,
+		"name"		:	"Sambalpur",
+		"slug"		:	"sambalpur",
+		"state_id"	:	21,
+		"census_id"	:	372
+	},{
+		"id"		:	373,
+		"name"		:	"Debagarh",
+		"slug"		:	"debagarh",
+		"state_id"	:	21,
+		"census_id"	:	373
+	},{
+		"id"		:	374,
+		"name"		:	"Sundargarh",
+		"slug"		:	"sundargarh",
+		"state_id"	:	21,
+		"census_id"	:	374
+	},{
+		"id"		:	375,
+		"name"		:	"Kendujhar",
+		"slug"		:	"kendujhar",
+		"state_id"	:	21,
+		"census_id"	:	375
+	},{
+		"id"		:	376,
+		"name"		:	"Mayurbhanj",
+		"slug"		:	"mayurbhanj",
+		"state_id"	:	21,
+		"census_id"	:	376
+	},{
+		"id"		:	377,
+		"name"		:	"Baleshwar",
+		"slug"		:	"baleshwar",
+		"state_id"	:	21,
+		"census_id"	:	377
+	},{
+		"id"		:	378,
+		"name"		:	"Bhadrak",
+		"slug"		:	"bhadrak",
+		"state_id"	:	21,
+		"census_id"	:	378
+	},{
+		"id"		:	379,
+		"name"		:	"Kendrapara",
+		"slug"		:	"kendrapara",
+		"state_id"	:	21,
+		"census_id"	:	379
+	},{
+		"id"		:	380,
+		"name"		:	"Jagatsinghapur",
+		"slug"		:	"jagatsinghapur",
+		"state_id"	:	21,
+		"census_id"	:	380
+	},{
+		"id"		:	381,
+		"name"		:	"Cuttack",
+		"slug"		:	"cuttack",
+		"state_id"	:	21,
+		"census_id"	:	381
+	},{
+		"id"		:	382,
+		"name"		:	"Jajapur",
+		"slug"		:	"jajapur",
+		"state_id"	:	21,
+		"census_id"	:	382
+	},{
+		"id"		:	383,
+		"name"		:	"Dhenkanal",
+		"slug"		:	"dhenkanal",
+		"state_id"	:	21,
+		"census_id"	:	383
+	},{
+		"id"		:	384,
+		"name"		:	"Anugul",
+		"slug"		:	"anugul",
+		"state_id"	:	21,
+		"census_id"	:	384
+	},{
+		"id"		:	385,
+		"name"		:	"Nayagarh",
+		"slug"		:	"nayagarh",
+		"state_id"	:	21,
+		"census_id"	:	385
+	},{
+		"id"		:	386,
+		"name"		:	"Khordha",
+		"slug"		:	"khordha",
+		"state_id"	:	21,
+		"census_id"	:	386
+	},{
+		"id"		:	387,
+		"name"		:	"Puri",
+		"slug"		:	"puri",
+		"state_id"	:	21,
+		"census_id"	:	387
+	},{
+		"id"		:	388,
+		"name"		:	"Ganjam",
+		"slug"		:	"ganjam",
+		"state_id"	:	21,
+		"census_id"	:	388
+	},{
+		"id"		:	389,
+		"name"		:	"Gajapati",
+		"slug"		:	"gajapati",
+		"state_id"	:	21,
+		"census_id"	:	389
+	},{
+		"id"		:	390,
+		"name"		:	"Kandhamal",
+		"slug"		:	"kandhamal",
+		"state_id"	:	21,
+		"census_id"	:	390
+	},{
+		"id"		:	391,
+		"name"		:	"Baudh",
+		"slug"		:	"baudh",
+		"state_id"	:	21,
+		"census_id"	:	391
+	},{
+		"id"		:	392,
+		"name"		:	"Subarnapur",
+		"slug"		:	"subarnapur",
+		"state_id"	:	21,
+		"census_id"	:	392
+	},{
+		"id"		:	393,
+		"name"		:	"Balangir",
+		"slug"		:	"balangir",
+		"state_id"	:	21,
+		"census_id"	:	393
+	},{
+		"id"		:	394,
+		"name"		:	"Nuapada",
+		"slug"		:	"nuapada",
+		"state_id"	:	21,
+		"census_id"	:	394
+	},{
+		"id"		:	395,
+		"name"		:	"Kalahandi",
+		"slug"		:	"kalahandi",
+		"state_id"	:	21,
+		"census_id"	:	395
+	},{
+		"id"		:	396,
+		"name"		:	"Rayagada",
+		"slug"		:	"rayagada",
+		"state_id"	:	21,
+		"census_id"	:	396
+	},{
+		"id"		:	397,
+		"name"		:	"Nabarangapur",
+		"slug"		:	"nabarangapur",
+		"state_id"	:	21,
+		"census_id"	:	397
+	},{
+		"id"		:	398,
+		"name"		:	"Koraput",
+		"slug"		:	"koraput",
+		"state_id"	:	21,
+		"census_id"	:	398
+	},{
+		"id"		:	399,
+		"name"		:	"Malkangiri",
+		"slug"		:	"malkangiri",
+		"state_id"	:	21,
+		"census_id"	:	399
+	},{
+		"id"		:	400,
+		"name"		:	"Koriya",
+		"slug"		:	"koriya",
+		"state_id"	:	22,
+		"census_id"	:	400
+	},{
+		"id"		:	401,
+		"name"		:	"Surguja",
+		"slug"		:	"surguja",
+		"state_id"	:	22,
+		"census_id"	:	401
+	},{
+		"id"		:	402,
+		"name"		:	"Jashpur",
+		"slug"		:	"jashpur",
+		"state_id"	:	22,
+		"census_id"	:	402
+	},{
+		"id"		:	403,
+		"name"		:	"Raigarh",
+		"slug"		:	"raigarh",
+		"state_id"	:	22,
+		"census_id"	:	403
+	},{
+		"id"		:	404,
+		"name"		:	"Korba",
+		"slug"		:	"korba",
+		"state_id"	:	22,
+		"census_id"	:	404
+	},{
+		"id"		:	405,
+		"name"		:	"Janjgir - Champa",
+		"slug"		:	"janjgir-champa",
+		"state_id"	:	22,
+		"census_id"	:	405
+	},{
+		"id"		:	406,
+		"name"		:	"Bilaspur",
+		"slug"		:	"bilaspur-1",
+		"state_id"	:	22,
+		"census_id"	:	406
+	},{
+		"id"		:	407,
+		"name"		:	"Kabeerdham",
+		"slug"		:	"kabeerdham",
+		"state_id"	:	22,
+		"census_id"	:	407
+	},{
+		"id"		:	408,
+		"name"		:	"Rajnandgaon",
+		"slug"		:	"rajnandgaon",
+		"state_id"	:	22,
+		"census_id"	:	408
+	},{
+		"id"		:	409,
+		"name"		:	"Durg",
+		"slug"		:	"durg",
+		"state_id"	:	22,
+		"census_id"	:	409
+	},{
+		"id"		:	410,
+		"name"		:	"Raipur",
+		"slug"		:	"raipur",
+		"state_id"	:	22,
+		"census_id"	:	410
+	},{
+		"id"		:	411,
+		"name"		:	"Mahasamund",
+		"slug"		:	"mahasamund",
+		"state_id"	:	22,
+		"census_id"	:	411
+	},{
+		"id"		:	412,
+		"name"		:	"Dhamtari",
+		"slug"		:	"dhamtari",
+		"state_id"	:	22,
+		"census_id"	:	412
+	},{
+		"id"		:	413,
+		"name"		:	"Uttar Bastar Kanker",
+		"slug"		:	"uttar-bastar-kanker",
+		"state_id"	:	22,
+		"census_id"	:	413
+	},{
+		"id"		:	414,
+		"name"		:	"Bastar",
+		"slug"		:	"bastar",
+		"state_id"	:	22,
+		"census_id"	:	414
+	},{
+		"id"		:	415,
+		"name"		:	"Narayanpur",
+		"slug"		:	"narayanpur",
+		"state_id"	:	22,
+		"census_id"	:	415
+	},{
+		"id"		:	416,
+		"name"		:	"Dakshin Bastar Dantewada",
+		"slug"		:	"dakshin-bastar-dantewada",
+		"state_id"	:	22,
+		"census_id"	:	416
+	},{
+		"id"		:	417,
+		"name"		:	"Bijapur",
+		"slug"		:	"bijapur",
+		"state_id"	:	22,
+		"census_id"	:	417
+	},{
+		"id"		:	418,
+		"name"		:	"Sheopur",
+		"slug"		:	"sheopur",
+		"state_id"	:	23,
+		"census_id"	:	418
+	},{
+		"id"		:	419,
+		"name"		:	"Morena",
+		"slug"		:	"morena",
+		"state_id"	:	23,
+		"census_id"	:	419
+	},{
+		"id"		:	420,
+		"name"		:	"Bhind",
+		"slug"		:	"bhind",
+		"state_id"	:	23,
+		"census_id"	:	420
+	},{
+		"id"		:	421,
+		"name"		:	"Gwalior",
+		"slug"		:	"gwalior",
+		"state_id"	:	23,
+		"census_id"	:	421
+	},{
+		"id"		:	422,
+		"name"		:	"Datia",
+		"slug"		:	"datia",
+		"state_id"	:	23,
+		"census_id"	:	422
+	},{
+		"id"		:	423,
+		"name"		:	"Shivpuri",
+		"slug"		:	"shivpuri",
+		"state_id"	:	23,
+		"census_id"	:	423
+	},{
+		"id"		:	424,
+		"name"		:	"Tikamgarh",
+		"slug"		:	"tikamgarh",
+		"state_id"	:	23,
+		"census_id"	:	424
+	},{
+		"id"		:	425,
+		"name"		:	"Chhatarpur",
+		"slug"		:	"chhatarpur",
+		"state_id"	:	23,
+		"census_id"	:	425
+	},{
+		"id"		:	426,
+		"name"		:	"Panna",
+		"slug"		:	"panna",
+		"state_id"	:	23,
+		"census_id"	:	426
+	},{
+		"id"		:	427,
+		"name"		:	"Sagar",
+		"slug"		:	"sagar",
+		"state_id"	:	23,
+		"census_id"	:	427
+	},{
+		"id"		:	428,
+		"name"		:	"Damoh",
+		"slug"		:	"damoh",
+		"state_id"	:	23,
+		"census_id"	:	428
+	},{
+		"id"		:	429,
+		"name"		:	"Satna",
+		"slug"		:	"satna",
+		"state_id"	:	23,
+		"census_id"	:	429
+	},{
+		"id"		:	430,
+		"name"		:	"Rewa",
+		"slug"		:	"rewa",
+		"state_id"	:	23,
+		"census_id"	:	430
+	},{
+		"id"		:	431,
+		"name"		:	"Umaria",
+		"slug"		:	"umaria",
+		"state_id"	:	23,
+		"census_id"	:	431
+	},{
+		"id"		:	432,
+		"name"		:	"Neemuch",
+		"slug"		:	"neemuch",
+		"state_id"	:	23,
+		"census_id"	:	432
+	},{
+		"id"		:	433,
+		"name"		:	"Mandsaur",
+		"slug"		:	"mandsaur",
+		"state_id"	:	23,
+		"census_id"	:	433
+	},{
+		"id"		:	434,
+		"name"		:	"Ratlam",
+		"slug"		:	"ratlam",
+		"state_id"	:	23,
+		"census_id"	:	434
+	},{
+		"id"		:	435,
+		"name"		:	"Ujjain",
+		"slug"		:	"ujjain",
+		"state_id"	:	23,
+		"census_id"	:	435
+	},{
+		"id"		:	436,
+		"name"		:	"Shajapur",
+		"slug"		:	"shajapur",
+		"state_id"	:	23,
+		"census_id"	:	436
+	},{
+		"id"		:	437,
+		"name"		:	"Dewas",
+		"slug"		:	"dewas",
+		"state_id"	:	23,
+		"census_id"	:	437
+	},{
+		"id"		:	438,
+		"name"		:	"Dhar",
+		"slug"		:	"dhar",
+		"state_id"	:	23,
+		"census_id"	:	438
+	},{
+		"id"		:	439,
+		"name"		:	"Indore",
+		"slug"		:	"indore",
+		"state_id"	:	23,
+		"census_id"	:	439
+	},{
+		"id"		:	440,
+		"name"		:	"Khargone (west Nimar)",
+		"slug"		:	"khargone-west-nimar",
+		"state_id"	:	23,
+		"census_id"	:	440
+	},{
+		"id"		:	441,
+		"name"		:	"Barwani",
+		"slug"		:	"barwani",
+		"state_id"	:	23,
+		"census_id"	:	441
+	},{
+		"id"		:	442,
+		"name"		:	"Rajgarh",
+		"slug"		:	"rajgarh",
+		"state_id"	:	23,
+		"census_id"	:	442
+	},{
+		"id"		:	443,
+		"name"		:	"Vidisha",
+		"slug"		:	"vidisha",
+		"state_id"	:	23,
+		"census_id"	:	443
+	},{
+		"id"		:	444,
+		"name"		:	"Bhopal",
+		"slug"		:	"bhopal",
+		"state_id"	:	23,
+		"census_id"	:	444
+	},{
+		"id"		:	445,
+		"name"		:	"Sehore",
+		"slug"		:	"sehore",
+		"state_id"	:	23,
+		"census_id"	:	445
+	},{
+		"id"		:	446,
+		"name"		:	"Raisen",
+		"slug"		:	"raisen",
+		"state_id"	:	23,
+		"census_id"	:	446
+	},{
+		"id"		:	447,
+		"name"		:	"Betul",
+		"slug"		:	"betul",
+		"state_id"	:	23,
+		"census_id"	:	447
+	},{
+		"id"		:	448,
+		"name"		:	"Harda",
+		"slug"		:	"harda",
+		"state_id"	:	23,
+		"census_id"	:	448
+	},{
+		"id"		:	449,
+		"name"		:	"Hoshangabad",
+		"slug"		:	"hoshangabad",
+		"state_id"	:	23,
+		"census_id"	:	449
+	},{
+		"id"		:	450,
+		"name"		:	"Katni",
+		"slug"		:	"katni",
+		"state_id"	:	23,
+		"census_id"	:	450
+	},{
+		"id"		:	451,
+		"name"		:	"Jabalpur",
+		"slug"		:	"jabalpur",
+		"state_id"	:	23,
+		"census_id"	:	451
+	},{
+		"id"		:	452,
+		"name"		:	"Narsimhapur",
+		"slug"		:	"narsimhapur",
+		"state_id"	:	23,
+		"census_id"	:	452
+	},{
+		"id"		:	453,
+		"name"		:	"Dindori",
+		"slug"		:	"dindori",
+		"state_id"	:	23,
+		"census_id"	:	453
+	},{
+		"id"		:	454,
+		"name"		:	"Mandla",
+		"slug"		:	"mandla",
+		"state_id"	:	23,
+		"census_id"	:	454
+	},{
+		"id"		:	455,
+		"name"		:	"Chhindwara",
+		"slug"		:	"chhindwara",
+		"state_id"	:	23,
+		"census_id"	:	455
+	},{
+		"id"		:	456,
+		"name"		:	"Seoni",
+		"slug"		:	"seoni",
+		"state_id"	:	23,
+		"census_id"	:	456
+	},{
+		"id"		:	457,
+		"name"		:	"Balaghat",
+		"slug"		:	"balaghat",
+		"state_id"	:	23,
+		"census_id"	:	457
+	},{
+		"id"		:	458,
+		"name"		:	"Guna",
+		"slug"		:	"guna",
+		"state_id"	:	23,
+		"census_id"	:	458
+	},{
+		"id"		:	459,
+		"name"		:	"Ashoknagar",
+		"slug"		:	"ashoknagar",
+		"state_id"	:	23,
+		"census_id"	:	459
+	},{
+		"id"		:	460,
+		"name"		:	"Shahdol",
+		"slug"		:	"shahdol",
+		"state_id"	:	23,
+		"census_id"	:	460
+	},{
+		"id"		:	461,
+		"name"		:	"Anuppur",
+		"slug"		:	"anuppur",
+		"state_id"	:	23,
+		"census_id"	:	461
+	},{
+		"id"		:	462,
+		"name"		:	"Sidhi",
+		"slug"		:	"sidhi",
+		"state_id"	:	23,
+		"census_id"	:	462
+	},{
+		"id"		:	463,
+		"name"		:	"Singrauli",
+		"slug"		:	"singrauli",
+		"state_id"	:	23,
+		"census_id"	:	463
+	},{
+		"id"		:	464,
+		"name"		:	"Jhabua",
+		"slug"		:	"jhabua",
+		"state_id"	:	23,
+		"census_id"	:	464
+	},{
+		"id"		:	465,
+		"name"		:	"Alirajpur",
+		"slug"		:	"alirajpur",
+		"state_id"	:	23,
+		"census_id"	:	465
+	},{
+		"id"		:	466,
+		"name"		:	"Khandwa (east Nimar)",
+		"slug"		:	"khandwa-east-nimar",
+		"state_id"	:	23,
+		"census_id"	:	466
+	},{
+		"id"		:	467,
+		"name"		:	"Burhanpur",
+		"slug"		:	"burhanpur",
+		"state_id"	:	23,
+		"census_id"	:	467
+	},{
+		"id"		:	468,
+		"name"		:	"Kachchh",
+		"slug"		:	"kachchh",
+		"state_id"	:	24,
+		"census_id"	:	468
+	},{
+		"id"		:	469,
+		"name"		:	"Banas Kantha",
+		"slug"		:	"banas-kantha",
+		"state_id"	:	24,
+		"census_id"	:	469
+	},{
+		"id"		:	470,
+		"name"		:	"Patan",
+		"slug"		:	"patan",
+		"state_id"	:	24,
+		"census_id"	:	470
+	},{
+		"id"		:	471,
+		"name"		:	"Mahesana",
+		"slug"		:	"mahesana",
+		"state_id"	:	24,
+		"census_id"	:	471
+	},{
+		"id"		:	472,
+		"name"		:	"Sabar Kantha",
+		"slug"		:	"sabar-kantha",
+		"state_id"	:	24,
+		"census_id"	:	472
+	},{
+		"id"		:	473,
+		"name"		:	"Gandhinagar",
+		"slug"		:	"gandhinagar",
+		"state_id"	:	24,
+		"census_id"	:	473
+	},{
+		"id"		:	474,
+		"name"		:	"Ahmedabad",
+		"slug"		:	"ahmedabad",
+		"state_id"	:	24,
+		"census_id"	:	474
+	},{
+		"id"		:	475,
+		"name"		:	"Surendranagar",
+		"slug"		:	"surendranagar",
+		"state_id"	:	24,
+		"census_id"	:	475
+	},{
+		"id"		:	476,
+		"name"		:	"Rajkot",
+		"slug"		:	"rajkot",
+		"state_id"	:	24,
+		"census_id"	:	476
+	},{
+		"id"		:	477,
+		"name"		:	"Jamnagar",
+		"slug"		:	"jamnagar",
+		"state_id"	:	24,
+		"census_id"	:	477
+	},{
+		"id"		:	478,
+		"name"		:	"Porbandar",
+		"slug"		:	"porbandar",
+		"state_id"	:	24,
+		"census_id"	:	478
+	},{
+		"id"		:	479,
+		"name"		:	"Junagadh",
+		"slug"		:	"junagadh",
+		"state_id"	:	24,
+		"census_id"	:	479
+	},{
+		"id"		:	480,
+		"name"		:	"Amreli",
+		"slug"		:	"amreli",
+		"state_id"	:	24,
+		"census_id"	:	480
+	},{
+		"id"		:	481,
+		"name"		:	"Bhavnagar",
+		"slug"		:	"bhavnagar",
+		"state_id"	:	24,
+		"census_id"	:	481
+	},{
+		"id"		:	482,
+		"name"		:	"Anand",
+		"slug"		:	"anand",
+		"state_id"	:	24,
+		"census_id"	:	482
+	},{
+		"id"		:	483,
+		"name"		:	"Kheda",
+		"slug"		:	"kheda",
+		"state_id"	:	24,
+		"census_id"	:	483
+	},{
+		"id"		:	484,
+		"name"		:	"Panch Mahals",
+		"slug"		:	"panch-mahals",
+		"state_id"	:	24,
+		"census_id"	:	484
+	},{
+		"id"		:	485,
+		"name"		:	"Dohad",
+		"slug"		:	"dohad",
+		"state_id"	:	24,
+		"census_id"	:	485
+	},{
+		"id"		:	486,
+		"name"		:	"Vadodara",
+		"slug"		:	"vadodara",
+		"state_id"	:	24,
+		"census_id"	:	486
+	},{
+		"id"		:	487,
+		"name"		:	"Narmada",
+		"slug"		:	"narmada",
+		"state_id"	:	24,
+		"census_id"	:	487
+	},{
+		"id"		:	488,
+		"name"		:	"Bharuch",
+		"slug"		:	"bharuch",
+		"state_id"	:	24,
+		"census_id"	:	488
+	},{
+		"id"		:	489,
+		"name"		:	"The Dangs",
+		"slug"		:	"the-dangs",
+		"state_id"	:	24,
+		"census_id"	:	489
+	},{
+		"id"		:	490,
+		"name"		:	"Navsari",
+		"slug"		:	"navsari",
+		"state_id"	:	24,
+		"census_id"	:	490
+	},{
+		"id"		:	491,
+		"name"		:	"Valsad",
+		"slug"		:	"valsad",
+		"state_id"	:	24,
+		"census_id"	:	491
+	},{
+		"id"		:	492,
+		"name"		:	"Surat",
+		"slug"		:	"surat",
+		"state_id"	:	24,
+		"census_id"	:	492
+	},{
+		"id"		:	493,
+		"name"		:	"Tapi",
+		"slug"		:	"tapi",
+		"state_id"	:	24,
+		"census_id"	:	493
+	},{
+		"id"		:	494,
+		"name"		:	"Diu",
+		"slug"		:	"diu",
+		"state_id"	:	25,
+		"census_id"	:	494
+	},{
+		"id"		:	495,
+		"name"		:	"Daman",
+		"slug"		:	"daman",
+		"state_id"	:	25,
+		"census_id"	:	495
+	},{
+		"id"		:	496,
+		"name"		:	"Dadra and Nagar Haveli",
+		"slug"		:	"dadra-and-nagar-haveli",
+		"state_id"	:	26,
+		"census_id"	:	496
+	},{
+		"id"		:	497,
+		"name"		:	"Nandurbar",
+		"slug"		:	"nandurbar",
+		"state_id"	:	27,
+		"census_id"	:	497
+	},{
+		"id"		:	498,
+		"name"		:	"Dhule",
+		"slug"		:	"dhule",
+		"state_id"	:	27,
+		"census_id"	:	498
+	},{
+		"id"		:	499,
+		"name"		:	"Jalgaon",
+		"slug"		:	"jalgaon",
+		"state_id"	:	27,
+		"census_id"	:	499
+	},{
+		"id"		:	500,
+		"name"		:	"Buldana",
+		"slug"		:	"buldana",
+		"state_id"	:	27,
+		"census_id"	:	500
+	},{
+		"id"		:	501,
+		"name"		:	"Akola",
+		"slug"		:	"akola",
+		"state_id"	:	27,
+		"census_id"	:	501
+	},{
+		"id"		:	502,
+		"name"		:	"Washim",
+		"slug"		:	"washim",
+		"state_id"	:	27,
+		"census_id"	:	502
+	},{
+		"id"		:	503,
+		"name"		:	"Amravati",
+		"slug"		:	"amravati",
+		"state_id"	:	27,
+		"census_id"	:	503
+	},{
+		"id"		:	504,
+		"name"		:	"Wardha",
+		"slug"		:	"wardha",
+		"state_id"	:	27,
+		"census_id"	:	504
+	},{
+		"id"		:	505,
+		"name"		:	"Nagpur",
+		"slug"		:	"nagpur",
+		"state_id"	:	27,
+		"census_id"	:	505
+	},{
+		"id"		:	506,
+		"name"		:	"Bhandara",
+		"slug"		:	"bhandara",
+		"state_id"	:	27,
+		"census_id"	:	506
+	},{
+		"id"		:	507,
+		"name"		:	"Gondiya",
+		"slug"		:	"gondiya",
+		"state_id"	:	27,
+		"census_id"	:	507
+	},{
+		"id"		:	508,
+		"name"		:	"Gadchiroli",
+		"slug"		:	"gadchiroli",
+		"state_id"	:	27,
+		"census_id"	:	508
+	},{
+		"id"		:	509,
+		"name"		:	"Chandrapur",
+		"slug"		:	"chandrapur",
+		"state_id"	:	27,
+		"census_id"	:	509
+	},{
+		"id"		:	510,
+		"name"		:	"Yavatmal",
+		"slug"		:	"yavatmal",
+		"state_id"	:	27,
+		"census_id"	:	510
+	},{
+		"id"		:	511,
+		"name"		:	"Nanded",
+		"slug"		:	"nanded",
+		"state_id"	:	27,
+		"census_id"	:	511
+	},{
+		"id"		:	512,
+		"name"		:	"Hingoli",
+		"slug"		:	"hingoli",
+		"state_id"	:	27,
+		"census_id"	:	512
+	},{
+		"id"		:	513,
+		"name"		:	"Parbhani",
+		"slug"		:	"parbhani",
+		"state_id"	:	27,
+		"census_id"	:	513
+	},{
+		"id"		:	514,
+		"name"		:	"Jalna",
+		"slug"		:	"jalna",
+		"state_id"	:	27,
+		"census_id"	:	514
+	},{
+		"id"		:	515,
+		"name"		:	"Aurangabad",
+		"slug"		:	"aurangabad-1",
+		"state_id"	:	27,
+		"census_id"	:	515
+	},{
+		"id"		:	516,
+		"name"		:	"Nashik",
+		"slug"		:	"nashik",
+		"state_id"	:	27,
+		"census_id"	:	516
+	},{
+		"id"		:	517,
+		"name"		:	"Thane",
+		"slug"		:	"thane",
+		"state_id"	:	27,
+		"census_id"	:	517
+	},{
+		"id"		:	518,
+		"name"		:	"Mumbai Suburban",
+		"slug"		:	"mumbai-suburban",
+		"state_id"	:	27,
+		"census_id"	:	518
+	},{
+		"id"		:	519,
+		"name"		:	"Mumbai",
+		"slug"		:	"mumbai",
+		"state_id"	:	27,
+		"census_id"	:	519
+	},{
+		"id"		:	520,
+		"name"		:	"Raigarh",
+		"slug"		:	"raigarh-1",
+		"state_id"	:	27,
+		"census_id"	:	520
+	},{
+		"id"		:	521,
+		"name"		:	"Pune",
+		"slug"		:	"pune",
+		"state_id"	:	27,
+		"census_id"	:	521
+	},{
+		"id"		:	522,
+		"name"		:	"Ahmadnagar",
+		"slug"		:	"ahmadnagar",
+		"state_id"	:	27,
+		"census_id"	:	522
+	},{
+		"id"		:	523,
+		"name"		:	"Bid",
+		"slug"		:	"bid",
+		"state_id"	:	27,
+		"census_id"	:	523
+	},{
+		"id"		:	524,
+		"name"		:	"Latur",
+		"slug"		:	"latur",
+		"state_id"	:	27,
+		"census_id"	:	524
+	},{
+		"id"		:	525,
+		"name"		:	"Osmanabad",
+		"slug"		:	"osmanabad",
+		"state_id"	:	27,
+		"census_id"	:	525
+	},{
+		"id"		:	526,
+		"name"		:	"Solapur",
+		"slug"		:	"solapur",
+		"state_id"	:	27,
+		"census_id"	:	526
+	},{
+		"id"		:	527,
+		"name"		:	"Satara",
+		"slug"		:	"satara",
+		"state_id"	:	27,
+		"census_id"	:	527
+	},{
+		"id"		:	528,
+		"name"		:	"Ratnagiri",
+		"slug"		:	"ratnagiri",
+		"state_id"	:	27,
+		"census_id"	:	528
+	},{
+		"id"		:	529,
+		"name"		:	"Sindhudurg",
+		"slug"		:	"sindhudurg",
+		"state_id"	:	27,
+		"census_id"	:	529
+	},{
+		"id"		:	530,
+		"name"		:	"Kolhapur",
+		"slug"		:	"kolhapur",
+		"state_id"	:	27,
+		"census_id"	:	530
+	},{
+		"id"		:	531,
+		"name"		:	"Sangli",
+		"slug"		:	"sangli",
+		"state_id"	:	27,
+		"census_id"	:	531
+	},{
+		"id"		:	532,
+		"name"		:	"Adilabad",
+		"slug"		:	"adilabad",
+		"state_id"	:	28,
+		"census_id"	:	532
+	},{
+		"id"		:	533,
+		"name"		:	"Nizamabad",
+		"slug"		:	"nizamabad",
+		"state_id"	:	28,
+		"census_id"	:	533
+	},{
+		"id"		:	534,
+		"name"		:	"Karimnagar",
+		"slug"		:	"karimnagar",
+		"state_id"	:	28,
+		"census_id"	:	534
+	},{
+		"id"		:	535,
+		"name"		:	"Medak",
+		"slug"		:	"medak",
+		"state_id"	:	28,
+		"census_id"	:	535
+	},{
+		"id"		:	536,
+		"name"		:	"Hyderabad",
+		"slug"		:	"hyderabad",
+		"state_id"	:	28,
+		"census_id"	:	536
+	},{
+		"id"		:	537,
+		"name"		:	"Rangareddy",
+		"slug"		:	"rangareddy",
+		"state_id"	:	28,
+		"census_id"	:	537
+	},{
+		"id"		:	538,
+		"name"		:	"Mahbubnagar",
+		"slug"		:	"mahbubnagar",
+		"state_id"	:	28,
+		"census_id"	:	538
+	},{
+		"id"		:	539,
+		"name"		:	"Nalgonda",
+		"slug"		:	"nalgonda",
+		"state_id"	:	28,
+		"census_id"	:	539
+	},{
+		"id"		:	540,
+		"name"		:	"Warangal",
+		"slug"		:	"warangal",
+		"state_id"	:	28,
+		"census_id"	:	540
+	},{
+		"id"		:	541,
+		"name"		:	"Khammam",
+		"slug"		:	"khammam",
+		"state_id"	:	28,
+		"census_id"	:	541
+	},{
+		"id"		:	542,
+		"name"		:	"Srikakulam",
+		"slug"		:	"srikakulam",
+		"state_id"	:	28,
+		"census_id"	:	542
+	},{
+		"id"		:	543,
+		"name"		:	"Vizianagaram",
+		"slug"		:	"vizianagaram",
+		"state_id"	:	28,
+		"census_id"	:	543
+	},{
+		"id"		:	544,
+		"name"		:	"Visakhapatnam",
+		"slug"		:	"visakhapatnam",
+		"state_id"	:	28,
+		"census_id"	:	544
+	},{
+		"id"		:	545,
+		"name"		:	"East Godavari",
+		"slug"		:	"east-godavari",
+		"state_id"	:	28,
+		"census_id"	:	545
+	},{
+		"id"		:	546,
+		"name"		:	"West Godavari",
+		"slug"		:	"west-godavari",
+		"state_id"	:	28,
+		"census_id"	:	546
+	},{
+		"id"		:	547,
+		"name"		:	"Krishna",
+		"slug"		:	"krishna",
+		"state_id"	:	28,
+		"census_id"	:	547
+	},{
+		"id"		:	548,
+		"name"		:	"Guntur",
+		"slug"		:	"guntur",
+		"state_id"	:	28,
+		"census_id"	:	548
+	},{
+		"id"		:	549,
+		"name"		:	"Prakasam",
+		"slug"		:	"prakasam",
+		"state_id"	:	28,
+		"census_id"	:	549
+	},{
+		"id"		:	550,
+		"name"		:	"Nellore",
+		"slug"		:	"nellore",
+		"state_id"	:	28,
+		"census_id"	:	550
+	},{
+		"id"		:	551,
+		"name"		:	"Y.s.r.",
+		"slug"		:	"ysr",
+		"state_id"	:	28,
+		"census_id"	:	551
+	},{
+		"id"		:	552,
+		"name"		:	"Kurnool",
+		"slug"		:	"kurnool",
+		"state_id"	:	28,
+		"census_id"	:	552
+	},{
+		"id"		:	553,
+		"name"		:	"Anantapur",
+		"slug"		:	"anantapur",
+		"state_id"	:	28,
+		"census_id"	:	553
+	},{
+		"id"		:	554,
+		"name"		:	"Chittoor",
+		"slug"		:	"chittoor",
+		"state_id"	:	28,
+		"census_id"	:	554
+	},{
+		"id"		:	555,
+		"name"		:	"Belgaum",
+		"slug"		:	"belgaum",
+		"state_id"	:	29,
+		"census_id"	:	555
+	},{
+		"id"		:	556,
+		"name"		:	"Bagalkot",
+		"slug"		:	"bagalkot",
+		"state_id"	:	29,
+		"census_id"	:	556
+	},{
+		"id"		:	557,
+		"name"		:	"Bijapur",
+		"slug"		:	"bijapur-1",
+		"state_id"	:	29,
+		"census_id"	:	557
+	},{
+		"id"		:	558,
+		"name"		:	"Bidar",
+		"slug"		:	"bidar",
+		"state_id"	:	29,
+		"census_id"	:	558
+	},{
+		"id"		:	559,
+		"name"		:	"Raichur",
+		"slug"		:	"raichur",
+		"state_id"	:	29,
+		"census_id"	:	559
+	},{
+		"id"		:	560,
+		"name"		:	"Koppal",
+		"slug"		:	"koppal",
+		"state_id"	:	29,
+		"census_id"	:	560
+	},{
+		"id"		:	561,
+		"name"		:	"Gadag",
+		"slug"		:	"gadag",
+		"state_id"	:	29,
+		"census_id"	:	561
+	},{
+		"id"		:	562,
+		"name"		:	"Dharwad",
+		"slug"		:	"dharwad",
+		"state_id"	:	29,
+		"census_id"	:	562
+	},{
+		"id"		:	563,
+		"name"		:	"Uttara Kannada",
+		"slug"		:	"uttara-kannada",
+		"state_id"	:	29,
+		"census_id"	:	563
+	},{
+		"id"		:	564,
+		"name"		:	"Haveri",
+		"slug"		:	"haveri",
+		"state_id"	:	29,
+		"census_id"	:	564
+	},{
+		"id"		:	565,
+		"name"		:	"Bellary",
+		"slug"		:	"bellary",
+		"state_id"	:	29,
+		"census_id"	:	565
+	},{
+		"id"		:	566,
+		"name"		:	"Chitradurga",
+		"slug"		:	"chitradurga",
+		"state_id"	:	29,
+		"census_id"	:	566
+	},{
+		"id"		:	567,
+		"name"		:	"Davanagere",
+		"slug"		:	"davanagere",
+		"state_id"	:	29,
+		"census_id"	:	567
+	},{
+		"id"		:	568,
+		"name"		:	"Shimoga",
+		"slug"		:	"shimoga",
+		"state_id"	:	29,
+		"census_id"	:	568
+	},{
+		"id"		:	569,
+		"name"		:	"Udupi",
+		"slug"		:	"udupi",
+		"state_id"	:	29,
+		"census_id"	:	569
+	},{
+		"id"		:	570,
+		"name"		:	"Chikmagalur",
+		"slug"		:	"chikmagalur",
+		"state_id"	:	29,
+		"census_id"	:	570
+	},{
+		"id"		:	571,
+		"name"		:	"Tumkur",
+		"slug"		:	"tumkur",
+		"state_id"	:	29,
+		"census_id"	:	571
+	},{
+		"id"		:	572,
+		"name"		:	"Bangalore",
+		"slug"		:	"bangalore",
+		"state_id"	:	29,
+		"census_id"	:	572
+	},{
+		"id"		:	573,
+		"name"		:	"Mandya",
+		"slug"		:	"mandya",
+		"state_id"	:	29,
+		"census_id"	:	573
+	},{
+		"id"		:	574,
+		"name"		:	"Hassan",
+		"slug"		:	"hassan",
+		"state_id"	:	29,
+		"census_id"	:	574
+	},{
+		"id"		:	575,
+		"name"		:	"Dakshina Kannada",
+		"slug"		:	"dakshina-kannada",
+		"state_id"	:	29,
+		"census_id"	:	575
+	},{
+		"id"		:	576,
+		"name"		:	"Kodagu",
+		"slug"		:	"kodagu",
+		"state_id"	:	29,
+		"census_id"	:	576
+	},{
+		"id"		:	577,
+		"name"		:	"Mysore",
+		"slug"		:	"mysore",
+		"state_id"	:	29,
+		"census_id"	:	577
+	},{
+		"id"		:	578,
+		"name"		:	"Chamarajanagar",
+		"slug"		:	"chamarajanagar",
+		"state_id"	:	29,
+		"census_id"	:	578
+	},{
+		"id"		:	579,
+		"name"		:	"Gulbarga",
+		"slug"		:	"gulbarga",
+		"state_id"	:	29,
+		"census_id"	:	579
+	},{
+		"id"		:	580,
+		"name"		:	"Yadagiri",
+		"slug"		:	"yadagiri",
+		"state_id"	:	29,
+		"census_id"	:	580
+	},{
+		"id"		:	581,
+		"name"		:	"Kolar",
+		"slug"		:	"kolar",
+		"state_id"	:	29,
+		"census_id"	:	581
+	},{
+		"id"		:	582,
+		"name"		:	"Chikkaballapura",
+		"slug"		:	"chikkaballapura",
+		"state_id"	:	29,
+		"census_id"	:	582
+	},{
+		"id"		:	583,
+		"name"		:	"Bangalore Rural",
+		"slug"		:	"bangalore-rural",
+		"state_id"	:	29,
+		"census_id"	:	583
+	},{
+		"id"		:	584,
+		"name"		:	"Ramanagara",
+		"slug"		:	"ramanagara",
+		"state_id"	:	29,
+		"census_id"	:	584
+	},{
+		"id"		:	585,
+		"name"		:	"North Goa",
+		"slug"		:	"north-goa",
+		"state_id"	:	30,
+		"census_id"	:	585
+	},{
+		"id"		:	586,
+		"name"		:	"South Goa",
+		"slug"		:	"south-goa",
+		"state_id"	:	30,
+		"census_id"	:	586
+	},{
+		"id"		:	587,
+		"name"		:	"Lakshadweep",
+		"slug"		:	"lakshadweep",
+		"state_id"	:	31,
+		"census_id"	:	587
+	},{
+		"id"		:	588,
+		"name"		:	"Kasaragod",
+		"slug"		:	"kasaragod",
+		"state_id"	:	32,
+		"census_id"	:	588
+	},{
+		"id"		:	589,
+		"name"		:	"Kannur",
+		"slug"		:	"kannur",
+		"state_id"	:	32,
+		"census_id"	:	589
+	},{
+		"id"		:	590,
+		"name"		:	"Wayanad",
+		"slug"		:	"wayanad",
+		"state_id"	:	32,
+		"census_id"	:	590
+	},{
+		"id"		:	591,
+		"name"		:	"Kozhikode",
+		"slug"		:	"kozhikode",
+		"state_id"	:	32,
+		"census_id"	:	591
+	},{
+		"id"		:	592,
+		"name"		:	"Malappuram",
+		"slug"		:	"malappuram",
+		"state_id"	:	32,
+		"census_id"	:	592
+	},{
+		"id"		:	593,
+		"name"		:	"Palakkad",
+		"slug"		:	"palakkad",
+		"state_id"	:	32,
+		"census_id"	:	593
+	},{
+		"id"		:	594,
+		"name"		:	"Thrissur",
+		"slug"		:	"thrissur",
+		"state_id"	:	32,
+		"census_id"	:	594
+	},{
+		"id"		:	595,
+		"name"		:	"Ernakulam",
+		"slug"		:	"ernakulam",
+		"state_id"	:	32,
+		"census_id"	:	595
+	},{
+		"id"		:	596,
+		"name"		:	"Idukki",
+		"slug"		:	"idukki",
+		"state_id"	:	32,
+		"census_id"	:	596
+	},{
+		"id"		:	597,
+		"name"		:	"Kottayam",
+		"slug"		:	"kottayam",
+		"state_id"	:	32,
+		"census_id"	:	597
+	},{
+		"id"		:	598,
+		"name"		:	"Alappuzha",
+		"slug"		:	"alappuzha",
+		"state_id"	:	32,
+		"census_id"	:	598
+	},{
+		"id"		:	599,
+		"name"		:	"Pathanamthitta",
+		"slug"		:	"pathanamthitta",
+		"state_id"	:	32,
+		"census_id"	:	599
+	},{
+		"id"		:	600,
+		"name"		:	"Kollam",
+		"slug"		:	"kollam",
+		"state_id"	:	32,
+		"census_id"	:	600
+	},{
+		"id"		:	601,
+		"name"		:	"Thiruvananthapuram",
+		"slug"		:	"thiruvananthapuram",
+		"state_id"	:	32,
+		"census_id"	:	601
+	},{
+		"id"		:	602,
+		"name"		:	"Thiruvallur",
+		"slug"		:	"thiruvallur",
+		"state_id"	:	33,
+		"census_id"	:	602
+	},{
+		"id"		:	603,
+		"name"		:	"Chennai",
+		"slug"		:	"chennai",
+		"state_id"	:	33,
+		"census_id"	:	603
+	},{
+		"id"		:	604,
+		"name"		:	"Kancheepuram",
+		"slug"		:	"kancheepuram",
+		"state_id"	:	33,
+		"census_id"	:	604
+	},{
+		"id"		:	605,
+		"name"		:	"Vellore",
+		"slug"		:	"vellore",
+		"state_id"	:	33,
+		"census_id"	:	605
+	},{
+		"id"		:	606,
+		"name"		:	"Tiruvannamalai",
+		"slug"		:	"tiruvannamalai",
+		"state_id"	:	33,
+		"census_id"	:	606
+	},{
+		"id"		:	607,
+		"name"		:	"Viluppuram",
+		"slug"		:	"viluppuram",
+		"state_id"	:	33,
+		"census_id"	:	607
+	},{
+		"id"		:	608,
+		"name"		:	"Salem",
+		"slug"		:	"salem",
+		"state_id"	:	33,
+		"census_id"	:	608
+	},{
+		"id"		:	609,
+		"name"		:	"Namakkal",
+		"slug"		:	"namakkal",
+		"state_id"	:	33,
+		"census_id"	:	609
+	},{
+		"id"		:	610,
+		"name"		:	"Erode",
+		"slug"		:	"erode",
+		"state_id"	:	33,
+		"census_id"	:	610
+	},{
+		"id"		:	611,
+		"name"		:	"The Nilgiris",
+		"slug"		:	"the-nilgiris",
+		"state_id"	:	33,
+		"census_id"	:	611
+	},{
+		"id"		:	612,
+		"name"		:	"Dindigul",
+		"slug"		:	"dindigul",
+		"state_id"	:	33,
+		"census_id"	:	612
+	},{
+		"id"		:	613,
+		"name"		:	"Karur",
+		"slug"		:	"karur",
+		"state_id"	:	33,
+		"census_id"	:	613
+	},{
+		"id"		:	614,
+		"name"		:	"Tiruchirappalli",
+		"slug"		:	"tiruchirappalli",
+		"state_id"	:	33,
+		"census_id"	:	614
+	},{
+		"id"		:	615,
+		"name"		:	"Perambalur",
+		"slug"		:	"perambalur",
+		"state_id"	:	33,
+		"census_id"	:	615
+	},{
+		"id"		:	616,
+		"name"		:	"Ariyalur",
+		"slug"		:	"ariyalur",
+		"state_id"	:	33,
+		"census_id"	:	616
+	},{
+		"id"		:	617,
+		"name"		:	"Cuddalore",
+		"slug"		:	"cuddalore",
+		"state_id"	:	33,
+		"census_id"	:	617
+	},{
+		"id"		:	618,
+		"name"		:	"Nagapattinam",
+		"slug"		:	"nagapattinam",
+		"state_id"	:	33,
+		"census_id"	:	618
+	},{
+		"id"		:	619,
+		"name"		:	"Thiruvarur",
+		"slug"		:	"thiruvarur",
+		"state_id"	:	33,
+		"census_id"	:	619
+	},{
+		"id"		:	620,
+		"name"		:	"Thanjavur",
+		"slug"		:	"thanjavur",
+		"state_id"	:	33,
+		"census_id"	:	620
+	},{
+		"id"		:	621,
+		"name"		:	"Pudukkottai",
+		"slug"		:	"pudukkottai",
+		"state_id"	:	33,
+		"census_id"	:	621
+	},{
+		"id"		:	622,
+		"name"		:	"Sivaganga",
+		"slug"		:	"sivaganga",
+		"state_id"	:	33,
+		"census_id"	:	622
+	},{
+		"id"		:	623,
+		"name"		:	"Madurai",
+		"slug"		:	"madurai",
+		"state_id"	:	33,
+		"census_id"	:	623
+	},{
+		"id"		:	624,
+		"name"		:	"Theni",
+		"slug"		:	"theni",
+		"state_id"	:	33,
+		"census_id"	:	624
+	},{
+		"id"		:	625,
+		"name"		:	"Virudhunagar",
+		"slug"		:	"virudhunagar",
+		"state_id"	:	33,
+		"census_id"	:	625
+	},{
+		"id"		:	626,
+		"name"		:	"Ramanathapuram",
+		"slug"		:	"ramanathapuram",
+		"state_id"	:	33,
+		"census_id"	:	626
+	},{
+		"id"		:	627,
+		"name"		:	"Thoothukkudi",
+		"slug"		:	"thoothukkudi",
+		"state_id"	:	33,
+		"census_id"	:	627
+	},{
+		"id"		:	628,
+		"name"		:	"Tirunelveli",
+		"slug"		:	"tirunelveli",
+		"state_id"	:	33,
+		"census_id"	:	628
+	},{
+		"id"		:	629,
+		"name"		:	"Kanniyakumari",
+		"slug"		:	"kanniyakumari",
+		"state_id"	:	33,
+		"census_id"	:	629
+	},{
+		"id"		:	630,
+		"name"		:	"Dharmapuri",
+		"slug"		:	"dharmapuri",
+		"state_id"	:	33,
+		"census_id"	:	630
+	},{
+		"id"		:	631,
+		"name"		:	"Krishnagiri",
+		"slug"		:	"krishnagiri",
+		"state_id"	:	33,
+		"census_id"	:	631
+	},{
+		"id"		:	632,
+		"name"		:	"Coimbatore",
+		"slug"		:	"coimbatore",
+		"state_id"	:	33,
+		"census_id"	:	632
+	},{
+		"id"		:	633,
+		"name"		:	"Tiruppur",
+		"slug"		:	"tiruppur",
+		"state_id"	:	33,
+		"census_id"	:	633
+	},{
+		"id"		:	634,
+		"name"		:	"Yanam",
+		"slug"		:	"yanam",
+		"state_id"	:	34,
+		"census_id"	:	634
+	},{
+		"id"		:	635,
+		"name"		:	"Puducherry",
+		"slug"		:	"puducherry",
+		"state_id"	:	34,
+		"census_id"	:	635
+	},{
+		"id"		:	636,
+		"name"		:	"Mahe",
+		"slug"		:	"mahe",
+		"state_id"	:	34,
+		"census_id"	:	636
+	},{
+		"id"		:	637,
+		"name"		:	"Karaikal",
+		"slug"		:	"karaikal",
+		"state_id"	:	34,
+		"census_id"	:	637
+	},{
+		"id"		:	638,
+		"name"		:	"Nicobars",
+		"slug"		:	"nicobars",
+		"state_id"	:	35,
+		"census_id"	:	638
+	},{
+		"id"		:	639,
+		"name"		:	"North and Middle Andaman",
+		"slug"		:	"north-and-middle-andaman",
+		"state_id"	:	35,
+		"census_id"	:	639
+	},{
+		"id"		:	640,
+		"name"		:	"South Andaman",
+		"slug"		:	"south-andaman",
+		"state_id"	:	35,
+		"census_id"	:	640
+	},{
+		"id"		:	642,
+		"name"		:	"Vijayapura",
+		"slug"		:	"vijayapura",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	643,
+		"name"		:	"Cuddapah",
+		"slug"		:	"cuddapah",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	644,
+		"name"		:	"East Nimar",
+		"slug"		:	"east-nimar",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	645,
+		"name"		:	"West Nimar",
+		"slug"		:	"west-nimar",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	646,
+		"name"		:	"Belgaum",
+		"slug"		:	"belgaum-1",
+		"state_id"	:	27,
+		"census_id"	:	0
+	},{
+		"id"		:	647,
+		"name"		:	"Sonapur",
+		"slug"		:	"sonapur",
+		"state_id"	:	21,
+		"census_id"	:	0
+	},{
+		"id"		:	648,
+		"name"		:	"Nawanshahr",
+		"slug"		:	"nawanshahr",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	649,
+		"name"		:	"North Cachar Hills",
+		"slug"		:	"north-cachar-hills",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	650,
+		"name"		:	"Kanker",
+		"slug"		:	"kanker",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	651,
+		"name"		:	"Kawardha",
+		"slug"		:	"kawardha",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	652,
+		"name"		:	"Hathras",
+		"slug"		:	"hathras",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	653,
+		"name"		:	"Medinipur",
+		"slug"		:	"medinipur",
+		"state_id"	:	19,
+		"census_id"	:	0
+	},{
+		"id"		:	654,
+		"name"		:	"Adilabad",
+		"slug"		:	"adilabad-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	655,
+		"name"		:	"Bhadradri-Kothagudem",
+		"slug"		:	"bhadradri-kothagudem",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	656,
+		"name"		:	"Hyderabad",
+		"slug"		:	"hyderabad-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	657,
+		"name"		:	"Jagtial",
+		"slug"		:	"jagtial",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	658,
+		"name"		:	"Jangaon",
+		"slug"		:	"jangaon",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	659,
+		"name"		:	"Jaya Shankar",
+		"slug"		:	"jaya-shankar",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	660,
+		"name"		:	"Jogulambha Gadwal",
+		"slug"		:	"jogulambha-gadwal",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	661,
+		"name"		:	"Kamareddy",
+		"slug"		:	"kamareddy",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	662,
+		"name"		:	"Karimnagar",
+		"slug"		:	"karimnagar-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	663,
+		"name"		:	"Khammam",
+		"slug"		:	"khammam-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	664,
+		"name"		:	"Komaram Bheem",
+		"slug"		:	"komaram-bheem",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	665,
+		"name"		:	"Mahabubabad",
+		"slug"		:	"mahabubabad",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	666,
+		"name"		:	"Mahbubnagar",
+		"slug"		:	"mahbubnagar-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	667,
+		"name"		:	"Mancherial",
+		"slug"		:	"mancherial",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	668,
+		"name"		:	"Medak",
+		"slug"		:	"medak-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	669,
+		"name"		:	"Medchal-Malkajgiri",
+		"slug"		:	"medchal-malkajgiri",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	670,
+		"name"		:	"Nagarkurnool",
+		"slug"		:	"nagarkurnool",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	671,
+		"name"		:	"Nalgonda",
+		"slug"		:	"nalgonda-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	672,
+		"name"		:	"Nirmal",
+		"slug"		:	"nirmal",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	673,
+		"name"		:	"Nizamabad",
+		"slug"		:	"nizamabad-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	674,
+		"name"		:	"Peddapalle",
+		"slug"		:	"peddapalle",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	675,
+		"name"		:	"Rangareddy",
+		"slug"		:	"rangareddy-1",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	676,
+		"name"		:	"Sangareddy",
+		"slug"		:	"sangareddy",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	677,
+		"name"		:	"Siddipet",
+		"slug"		:	"siddipet",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	678,
+		"name"		:	"Sircilla",
+		"slug"		:	"sircilla",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	679,
+		"name"		:	"Suryapet",
+		"slug"		:	"suryapet",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	680,
+		"name"		:	"Vikarabad",
+		"slug"		:	"vikarabad",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	681,
+		"name"		:	"Wanaparthy",
+		"slug"		:	"wanaparthy",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	682,
+		"name"		:	"Warangal Rural",
+		"slug"		:	"warangal-rural",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	683,
+		"name"		:	"Warangal Urban",
+		"slug"		:	"warangal-urban",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	684,
+		"name"		:	"Yadadri",
+		"slug"		:	"yadadri",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	685,
+		"name"		:	"Beed",
+		"slug"		:	"beed",
+		"state_id"	:	27,
+		"census_id"	:	0
+	},{
+		"id"		:	686,
+		"name"		:	"Shamli",
+		"slug"		:	"shamli",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	687,
+		"name"		:	"Dwarka",
+		"slug"		:	"dwarka",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	688,
+		"name"		:	"Sri Ganganagar",
+		"slug"		:	"sri-ganganagar",
+		"state_id"	:	8,
+		"census_id"	:	0
+	},{
+		"id"		:	689,
+		"name"		:	"Bhadohi Nagar",
+		"slug"		:	"bhadohi-nagar",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	690,
+		"name"		:	"Amethi",
+		"slug"		:	"amethi",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	691,
+		"name"		:	"Charkhi Dadri",
+		"slug"		:	"charkhi-dadri",
+		"state_id"	:	6,
+		"census_id"	:	0
+	},{
+		"id"		:	692,
+		"name"		:	"Agar Malwa",
+		"slug"		:	"agar-malwa",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	693,
+		"name"		:	"Lakhimpur Kheri",
+		"slug"		:	"lakhimpur-kheri",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	694,
+		"name"		:	"Balod",
+		"slug"		:	"balod",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	695,
+		"name"		:	"Chapra",
+		"slug"		:	"chapra",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	696,
+		"name"		:	"Amroha",
+		"slug"		:	"amroha",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	697,
+		"name"		:	"Sambhal",
+		"slug"		:	"sambhal",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	698,
+		"name"		:	"Nuh",
+		"slug"		:	"nuh",
+		"state_id"	:	6,
+		"census_id"	:	0
+	},{
+		"id"		:	699,
+		"name"		:	"Hapur",
+		"slug"		:	"hapur",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	700,
+		"name"		:	"Pathankot",
+		"slug"		:	"pathankot",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	701,
+		"name"		:	"Fazilka",
+		"slug"		:	"fazilka",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	702,
+		"name"		:	"Shikohabad",
+		"slug"		:	"shikohabad",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	703,
+		"name"		:	"Kasganj",
+		"slug"		:	"kasganj",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	704,
+		"name"		:	"Noida",
+		"slug"		:	"noida",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	705,
+		"name"		:	"Morbi",
+		"slug"		:	"morbi",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	706,
+		"name"		:	"West Champaran",
+		"slug"		:	"west-champaran",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	707,
+		"name"		:	"Narsinghpur",
+		"slug"		:	"narsinghpur",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	708,
+		"name"		:	"Gir Somnath",
+		"slug"		:	"gir-somnath",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	709,
+		"name"		:	"Balrampur",
+		"slug"		:	"balrampur-1",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	710,
+		"name"		:	"Motihari",
+		"slug"		:	"motihari",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	711,
+		"name"		:	"Bettiah",
+		"slug"		:	"bettiah",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	712,
+		"name"		:	"Mungeli",
+		"slug"		:	"mungeli",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	713,
+		"name"		:	"Kadapa",
+		"slug"		:	"kadapa",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	714,
+		"name"		:	"Hubli",
+		"slug"		:	"hubli",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	715,
+		"name"		:	"Batala",
+		"slug"		:	"batala",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	716,
+		"name"		:	"Shujalpur",
+		"slug"		:	"shujalpur",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	717,
+		"name"		:	"Chandigarh",
+		"slug"		:	"chandigarh-1",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	718,
+		"name"		:	"Mohali",
+		"slug"		:	"mohali",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	719,
+		"name"		:	"Bhubaneswar",
+		"slug"		:	"bhubaneswar",
+		"state_id"	:	21,
+		"census_id"	:	0
+	},{
+		"id"		:	720,
+		"name"		:	"Aravalli",
+		"slug"		:	"aravalli",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	721,
+		"name"		:	"Bemetra",
+		"slug"		:	"bemetra",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	722,
+		"name"		:	"Gariaband",
+		"slug"		:	"gariaband",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	723,
+		"name"		:	"Lepa-Rada",
+		"slug"		:	"lepa-rada",
+		"state_id"	:	12,
+		"census_id"	:	0
+	},{
+		"id"		:	724,
+		"name"		:	"Thoothukudi",
+		"slug"		:	"thoothukudi",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	725,
+		"name"		:	"Chhota Udepur",
+		"slug"		:	"chhota-udepur",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	726,
+		"name"		:	"East Champaran",
+		"slug"		:	"east-champaran",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	727,
+		"name"		:	"Botad",
+		"slug"		:	"botad",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	728,
+		"name"		:	"Gajraula",
+		"slug"		:	"gajraula",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	729,
+		"name"		:	"Alipurduar",
+		"slug"		:	"alipurduar",
+		"state_id"	:	19,
+		"census_id"	:	0
+	},{
+		"id"		:	730,
+		"name"		:	"Hojai",
+		"slug"		:	"hojai",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	731,
+		"name"		:	"Biswanath",
+		"slug"		:	"biswanath",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	732,
+		"name"		:	"Kondagaon",
+		"slug"		:	"kondagaon",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	733,
+		"name"		:	"Palghar",
+		"slug"		:	"palghar",
+		"state_id"	:	27,
+		"census_id"	:	0
+	},{
+		"id"		:	734,
+		"name"		:	"Charaideo",
+		"slug"		:	"charaideo",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	735,
+		"name"		:	"Niwari",
+		"slug"		:	"niwari",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	736,
+		"name"		:	"Surajpur",
+		"slug"		:	"surajpur",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	737,
+		"name"		:	"Sukma",
+		"slug"		:	"sukma",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	738,
+		"name"		:	"Mahisagar",
+		"slug"		:	"mahisagar",
+		"state_id"	:	24,
+		"census_id"	:	0
+	},{
+		"id"		:	739,
+		"name"		:	"Narowal",
+		"slug"		:	"narowal",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	740,
+		"name"		:	"Belagavi",
+		"slug"		:	"belagavi",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	741,
+		"name"		:	"South Salmara Mankacha",
+		"slug"		:	"south-salmara-mankacha",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	742,
+		"name"		:	"Namsai",
+		"slug"		:	"namsai",
+		"state_id"	:	12,
+		"census_id"	:	0
+	},{
+		"id"		:	743,
+		"name"		:	"Kalaburgi",
+		"slug"		:	"kalaburgi",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	744,
+		"name"		:	"Ayodhya",
+		"slug"		:	"ayodhya",
+		"state_id"	:	9,
+		"census_id"	:	0
+	},{
+		"id"		:	745,
+		"name"		:	"Kotdwar",
+		"slug"		:	"kotdwar",
+		"state_id"	:	5,
+		"census_id"	:	0
+	},{
+		"id"		:	746,
+		"name"		:	"Jhargram",
+		"slug"		:	"jhargram",
+		"state_id"	:	19,
+		"census_id"	:	0
+	},{
+		"id"		:	747,
+		"name"		:	"Pauri Garhwal",
+		"slug"		:	"pauri-garhwal",
+		"state_id"	:	5,
+		"census_id"	:	0
+	},{
+		"id"		:	748,
+		"name"		:	"Rudrapur",
+		"slug"		:	"rudrapur",
+		"state_id"	:	5,
+		"census_id"	:	0
+	},{
+		"id"		:	749,
+		"name"		:	"Kallakurichi",
+		"slug"		:	"kallakurichi",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	750,
+		"name"		:	"Bhatapara",
+		"slug"		:	"bhatapara",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	751,
+		"name"		:	"Guwahati",
+		"slug"		:	"guwahati",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	752,
+		"name"		:	"west singhbhum",
+		"slug"		:	"west-singhbhum",
+		"state_id"	:	20,
+		"census_id"	:	0
+	},{
+		"id"		:	753,
+		"name"		:	"Ooty",
+		"slug"		:	"ooty",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	754,
+		"name"		:	"Targhar",
+		"slug"		:	"targhar",
+		"state_id"	:	27,
+		"census_id"	:	0
+	},{
+		"id"		:	755,
+		"name"		:	"East Singhbhum",
+		"slug"		:	"east-singhbhum",
+		"state_id"	:	20,
+		"census_id"	:	0
+	},{
+		"id"		:	756,
+		"name"		:	"Addanki",
+		"slug"		:	"addanki",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	757,
+		"name"		:	"Dharmavarm",
+		"slug"		:	"dharmavarm",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	758,
+		"name"		:	"Gudivada",
+		"slug"		:	"gudivada",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	759,
+		"name"		:	"Nagda",
+		"slug"		:	"nagda",
+		"state_id"	:	23,
+		"census_id"	:	0
+	},{
+		"id"		:	760,
+		"name"		:	"Vijayawada",
+		"slug"		:	"vijayawada",
+		"state_id"	:	28,
+		"census_id"	:	0
+	},{
+		"id"		:	761,
+		"name"		:	"Bhuvanagiri",
+		"slug"		:	"bhuvanagiri",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	762,
+		"name"		:	"Mangalore",
+		"slug"		:	"mangalore",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	763,
+		"name"		:	"Tirupattur",
+		"slug"		:	"tirupattur",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	764,
+		"name"		:	"Narayanpet",
+		"slug"		:	"narayanpet",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	765,
+		"name"		:	"Ranipet",
+		"slug"		:	"ranipet",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	766,
+		"name"		:	"Silvassa",
+		"slug"		:	"silvassa",
+		"state_id"	:	26,
+		"census_id"	:	0
+	},{
+		"id"		:	767,
+		"name"		:	"Majuli",
+		"slug"		:	"majuli",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	768,
+		"name"		:	"Balasore",
+		"slug"		:	"balasore",
+		"state_id"	:	21,
+		"census_id"	:	0
+	},{
+		"id"		:	769,
+		"name"		:	"Pendra",
+		"slug"		:	"pendra",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	770,
+		"name"		:	"Mayiladuthurai",
+		"slug"		:	"mayiladuthurai",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	771,
+		"name"		:	"Kaghda",
+		"slug"		:	"kaghda",
+		"state_id"	:	2,
+		"census_id"	:	0
+	},{
+		"id"		:	772,
+		"name"		:	"Kudankulam",
+		"slug"		:	"kudankulam",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	773,
+		"name"		:	"Chengalpattu",
+		"slug"		:	"chengalpattu",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	774,
+		"name"		:	"Tura",
+		"slug"		:	"tura",
+		"state_id"	:	17,
+		"census_id"	:	0
+	},{
+		"id"		:	775,
+		"name"		:	"Tenkasi",
+		"slug"		:	"tenkasi",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	776,
+		"name"		:	"Mulugu",
+		"slug"		:	"mulugu",
+		"state_id"	:	36,
+		"census_id"	:	0
+	},{
+		"id"		:	777,
+		"name"		:	"Howrah",
+		"slug"		:	"howrah",
+		"state_id"	:	19,
+		"census_id"	:	0
+	},{
+		"id"		:	778,
+		"name"		:	"Baloda Bazar",
+		"slug"		:	"baloda-bazar",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	779,
+		"name"		:	"Vijayanagra",
+		"slug"		:	"vijayanagra",
+		"state_id"	:	29,
+		"census_id"	:	0
+	},{
+		"id"		:	780,
+		"name"		:	"Tuticorin",
+		"slug"		:	"tuticorin",
+		"state_id"	:	33,
+		"census_id"	:	0
+	},{
+		"id"		:	781,
+		"name"		:	"Bajali",
+		"slug"		:	"bajali",
+		"state_id"	:	18,
+		"census_id"	:	0
+	},{
+		"id"		:	782,
+		"name"		:	"Khawzawl",
+		"slug"		:	"khawzawl",
+		"state_id"	:	15,
+		"census_id"	:	0
+	},{
+		"id"		:	783,
+		"name"		:	"Malerkotla",
+		"slug"		:	"malerkotla",
+		"state_id"	:	3,
+		"census_id"	:	0
+	},{
+		"id"		:	784,
+		"name"		:	"Barh",
+		"slug"		:	"barh",
+		"state_id"	:	10,
+		"census_id"	:	0
+	},{
+		"id"		:	785,
+		"name"		:	"Sarangarh",
+		"slug"		:	"sarangarh",
+		"state_id"	:	22,
+		"census_id"	:	0
+	},{
+		"id"		:	786,
+		"name"		:	"Daman",
+		"slug"		:	"daman-1",
+		"state_id"	:	26,
+		"census_id"	:	0
+	}
+]
